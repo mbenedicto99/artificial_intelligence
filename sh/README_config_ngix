@@ -1,0 +1,14 @@
+The default Nginx directory on Debian is /var/www/nginx-default.
+
+You can check the file: /etc/nginx/sites-enabled/default
+
+server {
+        listen   80 default;
+        server_name  localhost;
+
+        access_log  /var/log/nginx/localhost.access.log;
+
+        location / {
+                root   /var/www/nginx-default;
+                index  index.html index.htm;
+        }
