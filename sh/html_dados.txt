@@ -20,12 +20,6 @@
 
 
 
- 
-
-
-
-
-
 
 
 
@@ -39,22 +33,19 @@
 <!--[if !IE]> <html class="no-js" lang="pt-BR"> <![endif]-->
 <head>
 	<meta charset="windows-1252">
-	<title>Cineastas pedem que Temer confirme nomea&#231;&#227;o da presidente da Ancine - 16/06/2017 - M&#244;nica Bergamo - Colunistas - Folha de S.Paulo</title>
+	<title>Joesley presta depoimento &#224; PF em inqu&#233;rito sobre Temer - 16/06/2017 - Poder - Folha de S.Paulo</title>
 
 
 	
 	
-	
 
 
-
-	<meta property="og:title" name="title" content="M&#244;nica Bergamo: Cineastas pedem que Temer confirme nomea&#231;&#227;o da presidente da Ancine">
+	<meta property="og:title" name="title" content="Joesley presta depoimento &#224; PF em inqu&#233;rito sobre Temer">
 	<meta property="og:type" content="article">
-	<meta property="og:locale" content="pt_BR">
-	<meta property="og:url" content="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
-	<meta property="og:image" content="http://f.i.uol.com.br/folha/ilustrada/images/17159222.jpeg">
+	<meta property="og:url" content="http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
+	<meta property="og:image" content="http://f.i.uol.com.br/folha/poder/images/17139123.jpeg">
 	<meta property="og:image:type" content="image/jpeg">
-	<meta property="og:description" name="description" content="Cineastas est&#227;o fazendo um abaixo-assinado para que o governo confirme a produtora Debora Ivanov na presid&#234;ncia da Ancine (Ag&#234;ncia Nacional de Cinema). O presidente Michel Temer precisa confirmar a indica&#231;&#227;o, feita pelo ministro da Cultura interino, Jo&#227;o Batista Andrade &amp;mdash;e que deixou sua perman&#234;ncia no cargo por um fio, j&#225; que o governo prefere o nome de S&#233;rgio S&#225; Leit&#227;o e considerou que o ministro deveria ter feito a articula&#231;&#227;o.">
+	<meta property="og:description" name="description" content="O dono da empresa de carnes JBS, Joesley Batista, prestou depoimento nesta sexta-feira (16) &#224; Pol&#237;cia Federal no inqu&#233;rito que investiga o presidente Michel Temer por suspeita de corrup&#231;&#227;o e tentativa de &quot;compra do sil&#234;ncio&quot; do ex-deputado federal Eduardo Cunha (PMDB-RJ) e do corretor de valores L&#250;cio Funaro.">
 	<meta property="og:site_name" content="Folha de S.Paulo">
 	
 	<meta property="fb:admins" content="100001113241596">
@@ -63,7 +54,27 @@
 
 	
 
-	<meta name="googlebot" content="noarchive" />
+	
+
+	
+
+	<!-- http://schema.org/Article -->
+	<meta itemprop="articleSection" content="Poder">
+	
+	<meta itemprop="alternativeHeadline" content="Joesley presta depoimento &#224; PF em inqu&#233;rito sobre Temer">
+	
+	<meta itemprop="dateModified" content="16/06/2017">
+	<meta itemprop="datePublished" content="16/06/2017">
+	<meta itemprop="description" content="O dono da empresa de carnes JBS, Joesley Batista, prestou depoimento nesta sexta-feira (16) &#224; Pol&#237;cia Federal no inqu&#233;rito que investiga o presidente Michel Temer por suspeita de corrup&#231;&#227;o e tentativa de &quot;compra do sil&#234;ncio&quot; do ex-deputado federal Eduardo Cunha (PMDB-RJ) e do corretor de valores L&#250;cio Funaro.">
+	<meta itemprop="inLanguage" content="pt-BR">
+	<meta itemprop="genre" content="News">
+	<meta itemprop="keywords" content="jbs,michel-temer,joesley-batista">
+	<meta itemprop="thumbnailUrl" content="http://f.i.uol.com.br/folha/poder/images/17139123.jpeg">
+	<meta itemprop="image" content="http://f.i.uol.com.br/folha/poder/images/17139123.jpeg">
+	<meta itemprop="url" content="http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
+	<!-- /http://schema.org/Article -->
+
+	<meta name="googlebot" content="noarchive">
 
 	<!--noindex-->
 	
@@ -73,8 +84,8 @@
 
 	<!-- assets -->
 	
-	<meta name="description" content="Cineastas est&#227;o fazendo um abaixo-assinado para que o governo confirme a produtora Debora Ivanov na presid&#234;ncia da Ancine (Ag&#234;ncia Nacional de Cinema). O presidente Michel Temer precisa confirmar a indica&#231;&#227;o, feita pelo ministro da Cultura interino, Jo&#227;o Batista Andrade &amp;mdash;e que deixou sua perman&#234;ncia no cargo por um fio, j&#225; que o governo prefere o nome de S&#233;rgio S&#225; Leit&#227;o e considerou que o ministro deveria ter feito a articula&#231;&#227;o.">
-	<meta name="keywords" content="cinema,ancine,andre-sturm,sturm jornalismo, informa&#195;&#167;&#195;&#163;o, economia, pol&#195;&#173;tica, fotografia, imagem, notici&#195;&#161;rio, cultura, tecnologia, esporte, Brasil, internacional, geral, pol&#195;&#173;cia, manchetes, loteria, loterias, resultados, opini&#195;&#163;o, an&#195;&#161;lise, cobertura">
+	<meta name="description" content="O dono da empresa de carnes JBS, Joesley Batista, prestou depoimento nesta sexta-feira (16) &#224; Pol&#237;cia Federal no inqu&#233;rito que investiga o presidente Michel Temer por suspeita de corrup&#231;&#227;o e tentativa de &quot;compra do sil&#234;ncio&quot; do ex-deputado federal Eduardo Cunha (PMDB-RJ) e do corretor de valores L&#250;cio Funaro.">
+	<meta name="keywords" content="jbs,michel-temer,joesley-batista jornalismo, informa&#195;&#167;&#195;&#163;o, economia, pol&#195;&#173;tica, fotografia, imagem, notici&#195;&#161;rio, cultura, tecnologia, esporte, Brasil, internacional, geral, pol&#195;&#173;cia, manchetes, loteria, loterias, resultados, opini&#195;&#163;o, an&#195;&#161;lise, cobertura">
 	
 
 	<meta name="google-site-verification" content="tix5BtliMfNLka_PR9dr28RDlrCcXfmjlEbZqbBZFZU" />
@@ -102,8 +113,6 @@
 	<!--//ChartBeat -->
 	
 
-	
-		
 	
 
 	
@@ -136,13 +145,13 @@
 
 	
 		
-		<link rel="canonical" href="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml/">
+		<link rel="canonical" href="http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml/">
 		
 	
 
-	<link rel="amphtml" href="http://m.folha.uol.com.br/amp/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+	<link rel="amphtml" href="http://m.folha.uol.com.br/amp/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 
-	<link rel="alternate" href="http://m.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+	<link rel="alternate" href="http://m.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 
 	<script src="http://static.folha.uol.com.br/library/modernizr/2.6.2/modernizr.js"></script>
 	<script src="http://static.folha.uol.com.br/library/jquery/1.8.3/jquery.js"></script>
@@ -184,24 +193,24 @@
 	
 	
 	<script>
-	folha.information.section = "colunistas" ;
+	folha.information.section = "poder" ;
 	// Advertising
-	folha.information.channel = "colunistas" ; 
+	folha.information.channel = "poder" ; 
 	
 	
-	folha.tag_manager.keywords = "aditaubba" ; 
+	folha.tag_manager.keywords = "petrolaosemad" ; 
 	
 
 	// Omniture	
 	
-	folha.information.page.channel = "Colunistas" ;
+	folha.information.page.channel = "Poder" ;
 	
 
 	
-	folha.information.page.subchannel = "M&#244;nica Bergamo" ;
+	folha.information.page.subchannel = "(none)" ;
 	
 
-	folha.information.page.title = "Cineastas pedem que Temer confirme nomea&#231;&#227;o da presidente da Ancine" ;
+	folha.information.page.title = "Joesley presta depoimento &#224; PF em inqu&#233;rito sobre Temer" ;
 	folha.information.page.type = "noticias" ;
 	</script>
 
@@ -222,6 +231,9 @@
     "banner-1x1-2" ,
     "banner-150x385-1",
     
+    "banner-300x50-1" ,
+    "banner-300x50-2" ,
+    
     
     
     "banner-300x250-2" ,
@@ -241,13 +253,12 @@
 </script>
 
 
-  <script>
-// Advertising
-folha.information.channel = "colunistas.monicabergamo" ; 
-</script>
-<!-- // -->
+  <!--/-->
 
 
+
+
+  
 
 
   <script>folha.tag_manager.create() ;</script>
@@ -269,29 +280,28 @@ folha.information.channel = "colunistas.monicabergamo" ;
     })(window, document, 'script', 'ncejjp');
 </script>
 
-<link rel="stylesheet" href="//static.folha.uol.com.br/folha/css/5.4/section/colunistas.css?2016050501">
-<!-- // -->
+<link rel="alternate" href="http://m.folha.uol.com.br/poder/">
 	<!--/noindex-->
-
-	<link rel="canonical" href="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
 
 	<script>
 	var page_info = {
-		site: decodeURIComponent("Folha%20-%20Colunistas") ,
-		section_id: "colunistas" ,
-		section_name: decodeURIComponent("M%C3%B4nica%20Bergamo") ,
+		site: decodeURIComponent("Folha%20Online") ,
+		section_id: "poder" ,
+		section_name: decodeURIComponent("Poder") ,
 		cover_date: decodeURIComponent("16%2F06%2F2017") ,
-		cover_time: decodeURIComponent("02h00") ,
+		cover_time: decodeURIComponent("13h08") ,
+		update_date: decodeURIComponent("2017-06-16") ,
+		update_time: decodeURIComponent("15h43") ,
 		subheadline: decodeURIComponent("") ,
-		title: decodeURIComponent("Cineastas%20pedem%20que%20Temer%20confirme%20nomea%C3%A7%C3%A3o%20da%20presidente%20da%20Ancine") ,
+		title: decodeURIComponent("Joesley%20presta%20depoimento%20%C3%A0%20PF%20em%20inqu%C3%A9rito%20sobre%20Temer") ,
 		type: "news" ,
-		description: decodeURIComponent("Cineastas%20est%C3%A3o%20fazendo%20um%20abaixo-assinado%20para%20que%20o%20governo%20confirme%20a%20produtora%20Debora%20Ivanov%20na%20presid%C3%AAncia%20da%20Ancine%20%28Ag%C3%AAncia%20Nacional%20de%20Cinema%29.%20O%20presidente%20Michel%20Temer%20precisa%20confirmar%20%3Ca%20href%3D%22http%3A%2F%2Fwww1.folha.uol.com.br%2Filustrada%2F2017%2F06%2F1891359-ministerio-da-cultura-indica-debora-ivanov-para-presidir-ancine.shtml%22%3Ea%20indica%C3%A7%C3%A3o%3C%2Fa%3E%2C%20feita%20pelo%20ministro%20da%20Cultura%20interino%2C%20Jo%C3%A3o%20Batista%20Andrade%20%26mdash%3Be%20que%20%3Ca%20href%3D%22http%3A%2F%2Fwww1.folha.uol.com.br%2Fcolunas%2Fmonicabergamo%2F2017%2F06%2F1891692-minc-diz-que-nao-volta-atras-em-indicacao-apos-crise-com-o-planalto.shtml%22%3Edeixou%20sua%20perman%C3%AAncia%20no%20cargo%20por%20um%20fio%3C%2Fa%3E%2C%20j%C3%A1%20que%20o%20governo%20prefere%20o%20nome%20de%20S%C3%A9rgio%20S%C3%A1%20Leit%C3%A3o%20e%20considerou%20que%20o%20ministro%20deveria%20ter%20feito%20a%20articula%C3%A7%C3%A3o.") ,
-		tags: decodeURIComponent("cinema%2Cancine%2Candre-sturm%2Csturm") ,
+		description: decodeURIComponent("O%20dono%20da%20empresa%20de%20carnes%20JBS%2C%20Joesley%20Batista%2C%20prestou%20depoimento%20nesta%20sexta-feira%20%2816%29%20%C3%A0%20Pol%C3%ADcia%20Federal%20no%20%3Ca%20href%3D%22http%3A%2F%2Fwww1.folha.uol.com.br%2Fpoder%2F2017%2F06%2F1892435-fachin-prorroga-prazo-para-pf-concluir-inquerito-sobre-temer.shtml%22%3Einqu%C3%A9rito%20que%20investiga%20o%20presidente%20Michel%20Temer%3C%2Fa%3E%20por%20suspeita%20de%20corrup%C3%A7%C3%A3o%20e%20tentativa%20de%20%26quot%3Bcompra%20do%20sil%C3%AAncio%26quot%3B%20do%20ex-deputado%20federal%20Eduardo%20Cunha%20%28PMDB-RJ%29%20e%20do%20corretor%20de%20valores%20L%C3%BAcio%20Funaro.") ,
+		tags: decodeURIComponent("jbs%2Cmichel-temer%2Cjoesley-batista") ,
 		images: decodeURIComponent("") ,
-		comment_id: "1893287" ,
+		comment_id: "1893435" ,
 		shortcut_id: decodeURIComponent("(none)") ,
-		live_url: decodeURIComponent("http%3A%2F%2Fwww1.folha.uol.com.br%2Fcolunas%2Fmonicabergamo%2F2017%2F06%2F1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml") ,
-		newstext_id: "1893287"
+		live_url: decodeURIComponent("http%3A%2F%2Fwww1.folha.uol.com.br%2Fpoder%2F2017%2F06%2F1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml") ,
+		newstext_id: "1893435"
 	} ;
 	</script>
 
@@ -299,24 +309,10 @@ folha.information.channel = "colunistas.monicabergamo" ;
 
 </head>
 
-<body class="section article colunistas" itemscope itemtype="http://schema.org/Article">
-	
+<body class="section article poder" itemscope itemtype="http://schema.org/Article">
+
 	<!--noindex-->
 
-	<!-- http://schema.org/Article -->
-	<meta itemprop="articleSection" content="Colunistas">
-	<meta itemprop="alternativeHeadline" content="Cineastas pedem que Temer confirme nomea&#231;&#227;o da presidente da Ancine">
-	<meta itemprop="dateModified" content="">
-	<meta itemprop="datePublished" content="16/06/2017">
-	<meta itemprop="description" content="Cineastas est&#227;o fazendo um abaixo-assinado para que o governo confirme a produtora Debora Ivanov na presid&#234;ncia da Ancine (Ag&#234;ncia Nacional de Cinema). O presidente Michel Temer precisa confirmar a indica&#231;&#227;o, feita pelo ministro da Cultura interino, Jo&#227;o Batista Andrade &amp;mdash;e que deixou sua perman&#234;ncia no cargo por um fio, j&#225; que o governo prefere o nome de S&#233;rgio S&#225; Leit&#227;o e considerou que o ministro deveria ter feito a articula&#231;&#227;o.">
-	<meta itemprop="inLanguage" content="pt-BR">
-	<meta itemprop="genre" content="News">
-	<meta itemprop="keywords" content="cinema,ancine,andre-sturm,sturm">
-	<meta itemprop="thumbnailUrl" content="http://f.i.uol.com.br/folha/ilustrada/images/17159222.jpeg">
-	<meta itemprop="image" content="http://f.i.uol.com.br/folha/ilustrada/images/17159222.jpeg">
-	<meta itemprop="url" content="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
-	<!-- /http://schema.org/Article -->
-		
 	
 	<!--/-->
 	<!--/-->
@@ -1386,7 +1382,7 @@ folha.information.channel = "colunistas.monicabergamo" ;
 												<div class="logo-container">
 							<a href="http://www.folha.uol.com.br/"><h1 id="logo" class="sprite logo"><span>Folha de S.Paulo</span></h1></a>
 							<h2 class="sprite slogan">Um jornal a serviço do Brasil</h2>
-							<time class="today" datetime="2017-06-16 16:37"></time>
+							<time class="today" datetime="2017-06-16 17:30"></time>
 						</div>
 
 						<script>
@@ -1404,8 +1400,8 @@ folha.information.channel = "colunistas.monicabergamo" ;
 		<li>
 			<span class="btn" id="paywall-auth-header">
 				<span data-paywall="off">
-					<a href="http://login.folha.com.br/login?service=paywall/frontend&amp;done=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml"><i class="sprite login"></i>Login</a> |
-					<a href="http://login.folha.com.br/logout?service=paywall/frontend&amp;done=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml"><i class="sprite logout"></i>Logout</a>
+					<a href="http://login.folha.com.br/login?service=paywall/frontend&amp;done=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml"><i class="sprite login"></i>Login</a> |
+					<a href="http://login.folha.com.br/logout?service=paywall/frontend&amp;done=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml"><i class="sprite logout"></i>Logout</a>
 				</span>
 			</span>
 		</li>
@@ -1416,7 +1412,7 @@ folha.information.channel = "colunistas.monicabergamo" ;
 	</ul>
 </div>
 
-<script src="http://static.folha.uol.com.br/paywall/js/1/estalogado-5.4.js?2016050501"></script>
+<script src="http://static.folha.uol.com.br/paywall/js/1/estalogado-5.4.js?2017060901"></script>
 
 
 								<!-- Publicidade - 228x94 -->
@@ -1933,7 +1929,7 @@ folha.information.channel = "colunistas.monicabergamo" ;
 							<div id="weather" class="weather">
 								<noscript>
 								<i class="sprite dia-ceu_claro">Céu claro</i>
-<span class="temperature">22ºC</span>
+<span class="temperature">21ºC</span>
 <a href="http://tempo.folha.com.br/sp/sao_paulo" title="Veja a previsão completa">
 <span class="location">SP</span>
 </a>
@@ -2036,20 +2032,15 @@ $( "#ticker" ).ticker( {
 		<div class="span16">
 	<!-- Section Masthead -->
 	<div class="section-masthead">
-		<h1><a href="/colunistas">Colunistas</a></h1>
-					
-			<nav class="section-nav" data-vr-zone="navigation">
+		<h1><a href="/poder">Poder</a></h1>
+					<nav class="section-nav" data-vr-zone="navigation">
 				<ul>			
-					<li data-vr-contentbox=""><a href="http://www1.folha.uol.com.br/colunistasconvidados/" data-vr-excerpttitle>Colunistas convidados</a></li>
-					<li data-vr-contentbox=""><a href="http://www1.folha.uol.com.br/excolunistas/" data-vr-excerpttitle>Ex-colunistas</a></li>
+					<li data-vr-contentbox=""><a href="http://www1.folha.uol.com.br/especial/2014/escandalonapetrobras/" data-vr-excerpttitle>Governo encurralado</a></li>
+					<li data-vr-contentbox=""><a href="http://www1.folha.uol.com.br/especial/2015/brasil-em-crise/" data-vr-excerpttitle>Impeachment</a></li>
 	
 				</ul>
 			</nav>
-			
-
-		
 <!--//-->
-
 		<div class="clearfix"></div>
 	</div>
 	<!-- Section Masthead -->
@@ -2059,25 +2050,32 @@ $( "#ticker" ).ticker( {
 		<div class="span12 page-content">
 
 			
-
-			<div class="columnist-top-full">
-	<div class="top-wrapper">
-		<h2 itemprop="name">
-			<a href="/colunas/monicabergamo">mônica bergamo</a>
-		</h2>
-		<div class="complemnt">
-		</div>
-	</div>
-
-	<section class="biography">
-	<div class="content">
-			<img itemprop="image" src="http://f.i.uol.com.br/folha/colunas/images/1507426.jpeg" width="70" height="70" alt="m&#xf4;nica bergamo">
-		<p itemprop="description">Jornalista, assina coluna com informações sobre diversas áreas, entre elas, política, moda e coluna social. Está na <b>Folha</b> desde abril de 1999. Escreve diariamente.</p>
-	</div>
-</section>
-<!--//-->
+			<!-- BEGIN -->
+			
+<div class="article-top_image hide">
+	
+<a href="http://www1.folha.uol.com.br/especial/2014/petrolao/">		<h2>Governo encurralado</h2>
+</a>
+	<nav>
+		<ul>
+			<li><a href="http://arte.folha.uol.com.br/poder/2017/04/12/quem-esta-na-lista/">Lista de Fachin</a></li>
+			<li><a href="http://www1.folha.uol.com.br/poder/2017/04/1874954-apos-lista-de-fachin-veja-os-proximos-passos-da-investigacao-da-lava-jato.shtml">Próximos passos</a></li>
+			<li><a href="http://www1.folha.uol.com.br/poder/2017/04/1875621-assista-aos-videos-das-principais-delacoes-de-executivos-da-odebrecht.shtml">Vídeos das delações</a></li>
+			<li><a href="http://www1.folha.uol.com.br/poder/2017/03/1867332-nos-tres-anos-da-lava-jato-veja-quais-sao-as-principais-frentes-da-operacao.shtml">Três anos da Lava Jato</a></li>
+			<li><a href="http://arte.folha.uol.com.br/poder/operacao-lava-jato/">Entenda a operação</a></li>
+			<li><a href="http://www1.folha.uol.com.br/poder/2014/11/1548828-posto-de-gasolina-no-df-motivou-operacao.shtml">Origem</a></li>
+		</ul>
+	</nav>
+	
+	<p></p>
 </div>
+
+<script type="text/javascript">
+// Omniture: Para que a matéria seja contabilizada dentro de Especial
+folha.information.page.special.title = "Governo encurralado" ;
+</script>
 <!--//-->
+			
 
 			<!-- row -->
 			<div class="row">
@@ -2091,37 +2089,44 @@ $( "#ticker" ).ticker( {
 						<header>
 						<!--NOTICIA-->
 						
-						<h1 itemprop="headline"><!--TITULO-->Cineastas pedem que Temer confirme nomea&#231;&#227;o da presidente da Ancine<!--/TITULO--></h1>
+						
+						<h1 itemprop="headline"><!--TITULO-->Joesley presta depoimento à PF em inquérito sobre Temer<!--/TITULO--></h1>
+						
+
 <!-- // -->
 <!-- BEGIN -->
 <table class="articleGraphic">
 <tr>
 <td rowspan="3" class="articleGraphicSpace"></td>
-<td class="articleGraphicCredit">Divulgação/MinC</td>
+<td class="articleGraphicCredit">Danilo Verpa - 13.fev.2017/Folhapress</td>
 <td rowspan="3" class="articleGraphicSpace"></td>
 </tr>
 <tr>
-<td class="articleGraphicImage"><img src="http://f.i.uol.com.br/folha/ilustrada/images/17159222.jpeg" width="620" height="414" alt="Débora Ivanov, indicada pelo MinC para presidir a Ancine " border="0" ></td>
+<td class="articleGraphicImage"><img src="http://f.i.uol.com.br/folha/poder/images/17139123.jpeg" width="620" height="413" alt="Polícia Federal faz operação na sede da JBS, em São Paulo" border="0" ></td>
 </tr>
 <tr>
-<td class="articleGraphicCaption">Debora Ivanov, indicada pelo MinC para presidir a Ancine </td>
+<td class="articleGraphicCaption">O empresário Joesley Batista, sócio da JBS</td>
 </tr>
 </table>
 <!-- /BEGIN -->
 
 <!--TEXTO-->
 <div class="author" itemprop="author">
-
+<p>
+DE BRASÍLIA
+</p>
 </div>
 
-<time datetime="2017-06-16 02:00">
-<!--DATA-->16/06/2017<!--/DATA--> <i class="sprite icon-clock"></i> <!--HORA-->02h00<!--/HORA-->
+<time datetime="2017-06-16 13:08">
+<!--DATA-->16/06/2017<!--/DATA--> <i class="sprite icon-clock"></i> <!--HORA-->13h08<!--/HORA-->
+		
+		- Atualizado às 15h43
 </time>
 </header>
 
 <!--noindex--><!--PRINT:EXCLUDE-->
 <div class="toolbar rs_preserve rs_skip">
-	<div data-share-buttons="facebook twitter googleplus linkedin email" data-share-buttons-mobile="facebook whatsapp twitter googleplus linkedin" data-share-url="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml" data-share-button-facebook-text="Compartilhar" data-share-twitter-text="Cineastas pedem que Temer confirme nomea&#231;&#227;o da presidente da Ancine"></div>
+	<div data-share-buttons="facebook twitter googleplus linkedin email" data-share-buttons-mobile="facebook whatsapp twitter googleplus linkedin" data-share-url="http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml" data-share-button-facebook-text="Compartilhar" data-share-twitter-text="Joesley presta depoimento &#224; PF em inqu&#233;rito sobre Temer"></div>
 	<!-- <div class="buttons"></div> -->
 
 
@@ -2133,32 +2138,32 @@ $( "#ticker" ).ticker( {
 			<i class="arrow-up"></i>
 			<ul class="unstyled">
 				<li class="facebook">
-					<a href="http://www.facebook.com/share.php?u=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+					<a href="http://www.facebook.com/share.php?u=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 						<i class="section-sprite facebook-small"></i>Facebook
 					</a>
 				</li>
 				<li class="whatsapp">
 					<script type="text/javascript"><!--
-					document.write( '<a href=\"whatsapp://send?text=Cineastas%20pedem%20que%20Temer%20confirme%20nomea%C3%A7%C3%A3o%20da%20presidente%20da%20Ancine http%3A%2F%2Fwww1.folha.uol.com.br%2Fcolunas%2Fmonicabergamo%2F2017%2F06%2F1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml Via Folha de S.Paulo\"><i class=\"section-sprite icon-whatsapp-small\"><\/i>Whatsapp<\/a><\/script>' ) ;
+					document.write( '<a href=\"whatsapp://send?text=Joesley%20presta%20depoimento%20%C3%A0%20PF%20em%20inqu%C3%A9rito%20sobre%20Temer http%3A%2F%2Fwww1.folha.uol.com.br%2Fpoder%2F2017%2F06%2F1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml Via Folha de S.Paulo\"><i class=\"section-sprite icon-whatsapp-small\"><\/i>Whatsapp<\/a><\/script>' ) ;
 					//--></script>
 				</li>
 				<li>
-					<a href="http://tools.folha.com.br/send?site=emcimadahora&amp;url=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+					<a href="http://tools.folha.com.br/send?site=emcimadahora&amp;url=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 						<i class="section-sprite icon-email"></i>Enviar por e-mail
 					</a>
 				</li>
 				<li class="short-cut">
-					<a href="javascript:;" class="shortcut" data-shortcut="http://folha.com/no1893287">
+					<a href="javascript:;" class="shortcut" data-shortcut="http://folha.com/no1893435">
 						<i class="section-sprite icon-url"></i>Copiar url curta
 					</a>
 				</li>
 				<li>
-					<a href="http://tools.folha.com.br/print?site=emcimadahora&amp;url=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+					<a href="http://tools.folha.com.br/print?site=emcimadahora&amp;url=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 						<i class="section-sprite icon-print"></i>Imprimir
 					</a>
 				</li>
 				<li>
-					<a href="http://tools.folha.com.br/feedback?url=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+					<a href="http://tools.folha.com.br/feedback?url=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 						<i class="section-sprite icon-warning"></i>Comunicar erros
 					</a>
 				</li>
@@ -2167,7 +2172,7 @@ $( "#ticker" ).ticker( {
 					<a href="javascript:;" data-size="small">Menor</a>
 				</li>
 				<li>
-					<a href="http://feeds.folha.uol.com.br/colunas/monicabergamo/rss091.xml">
+					<a href="http://feeds.folha.uol.com.br/poder/rss091.xml">
 						<i class="section-sprite icon-rss-small"></i>RSS
 					</a>
 				</li>
@@ -2178,26 +2183,56 @@ $( "#ticker" ).ticker( {
 </div>
 
 <script>
-folha.toolbar.readspeaker( "http://tools.folha.com.br/print?url=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml" ) ;
+folha.toolbar.readspeaker( "http://tools.folha.com.br/print?url=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml" ) ;
 </script>
 <!--/PRINT:EXCLUDE--><!--noindex-->
 
 <div class="content" itemprop="articleBody">
 	<!--noindex--><!--PRINT:EXCLUDE-->
 	
+
+<!-- ad-180x150 -->	
+	<div id="banner-180x150-area" class="advertising ad-180x150">
+	<span class="label">Publicidade</span>
+        <script>
+            window.uolads && window.uolads.push({ id: "banner-180x150-area" });
+        </script>
+	</div>
+<!-- /ad-180x150 -->
+
+
 	<!--/PRINT:EXCLUDE--><!--/noindex-->
 
 	<p>
-Cineastas estão fazendo um abaixo-assinado para que o governo confirme a produtora Debora Ivanov na presidência da Ancine (Agência Nacional de Cinema). O presidente Michel Temer precisa confirmar <a href="http://www1.folha.uol.com.br/ilustrada/2017/06/1891359-ministerio-da-cultura-indica-debora-ivanov-para-presidir-ancine.shtml">a indicação</a>, feita pelo ministro da Cultura interino, João Batista Andrade &mdash;e que <a href="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1891692-minc-diz-que-nao-volta-atras-em-indicacao-apos-crise-com-o-planalto.shtml">deixou sua permanência no cargo por um fio</a>, já que o governo prefere o nome de Sérgio Sá Leitão e considerou que o ministro deveria ter feito a articulação.
+O dono da empresa de carnes JBS, Joesley Batista, prestou depoimento nesta sexta-feira (16) à Polícia Federal no <a href="http://www1.folha.uol.com.br/poder/2017/06/1892435-fachin-prorroga-prazo-para-pf-concluir-inquerito-sobre-temer.shtml">inquérito que investiga o presidente Michel Temer</a> por suspeita de corrupção e tentativa de &quot;compra do silêncio&quot; do ex-deputado federal Eduardo Cunha (PMDB-RJ) e do corretor de valores Lúcio Funaro.
 </p>
 
 <p>
-<b>ROLO NO PROJETOR</b><br>
-Assinaram a petição diretores como Walter Salles, Fernando Meirelles, Bruno Barreto, Laís Bodanzky, Luiz Carlos Barreto, Alain Fresnot e André Klotzel. Atores como Rodrigo Santoro, Bruna Lombardi, Cauã Reymond e Paulo Betti também apoiam.
+O depoimento, noticiado pelo site G1 e confirmado pela <b>Folha</b>, foi prestado ao Ginq, grupo de policiais federais vinculados à direção-geral da PF destacados para atuar nos inquéritos que tramitam em tribunais superiores sobre autoridades com foro privilegiado.
 </p>
 
 <p>
-Leia a coluna completa <a href="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893274-governo-estuda-aumentar-limite-de-isencao-para-compras-em-free-shops.shtml">aqui</a>.
+Segundo o G1, a defesa de Joesley afirmou que ele confirmou as informações prestadas anteriormente à PGR (Procuradoria-Geral da República), com a qual fechou um acordo de delação premiada em abril deste ano.
+</p>
+
+<p>
+Em 7 de março, o empresário gravou uma conversa com Temer no Palácio do Jaburu. Segundo o entendimento da PGR, na conversa Temer apoiou a iniciativa de Joesley para impedir que Cunha e Funaro fizessem uma delação premiada.
+</p>
+
+<p>
+Além disso, no mesmo inquérito é investigado um ex-assessor próximo de Temer, o ex-deputado federal Rodrigo Rocha Loures (PMDB-PR), que está preso em Brasília após ter recebido <a href="http://www1.folha.uol.com.br/poder/2017/06/1891980-em-denuncia-janot-vai-ligar-temer-a-mala-de-r-500-mil-entregue-a-loures.shtml">uma mala com R$ 500 mil em espécie da JBS.</a>
+</p>
+
+<p>
+Conforme decisão do ministro do STF (Supremo Tribunal Federal) Edson Fachin, relator dos casos da Operação Lava Jato no tribunal, a PF tem até a próxima segunda-feira (19) para encerrar o inquérito que investiga o presidente. A investigação foi aberta no dia 18 de maio, também por ordem de Fachin e a pedido do procurador-geral da República, Rodrigo Janot.
+</p>
+
+<p>
+No mesmo inquérito, a PF encaminhou 82 perguntas ao presidente Temer. Após um pedido de adiamento do prazo para envio das respostas, <a href="http://www1.folha.uol.com.br/poder/2017/06/1891697-temer-nao-responde-perguntas-da-pf-e-diz-ser-alvo-de-abusos-e-agressoes.shtml">Temer se recusou a responder as perguntas</a>. Em manifestações anteriores, Temer e o Palácio do Planalto já negaram quaisquer irregularidades na relação com Joesley Batista.
+</p>
+
+<p>
+A assessoria de imprensa da JBS, a cargo da FSB Comunicação, informou que Joesley &quot;prestou o depoimento na manhã de hoje e segue colaborando com a Justiça&quot;.
 </p>
 </div>
 <!--/TEXTO-->
@@ -2209,7 +2244,7 @@ Leia a coluna completa <a href="http://www1.folha.uol.com.br/colunas/monicaberga
 
 
 
-<!-- // -->
+<!-- // Nova saída do spiffy // -->
 
 
 
@@ -2223,10 +2258,8 @@ Leia a coluna completa <a href="http://www1.folha.uol.com.br/colunas/monicaberga
 					<!--PRINT:EXCLUDE-->
 					<div class="clearfix"></div>
 
-					<!--/-->
-					<!--noindex-->
 					<div class="toolbar rs_preserve rs_skip">
-	<div data-share-buttons="facebook twitter googleplus linkedin email" data-share-buttons-mobile="facebook whatsapp twitter googleplus linkedin" data-share-url="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml" data-share-button-facebook-text="Compartilhar" data-share-twitter-text="Cineastas pedem que Temer confirme nomea&#231;&#227;o da presidente da Ancine"></div>
+	<div data-share-buttons="facebook twitter googleplus linkedin email" data-share-buttons-mobile="facebook whatsapp twitter googleplus linkedin" data-share-url="http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml" data-share-button-facebook-text="Compartilhar" data-share-twitter-text="Joesley presta depoimento &#224; PF em inqu&#233;rito sobre Temer"></div>
 	<!-- <div class="buttons"></div> -->
 
 
@@ -2238,32 +2271,32 @@ Leia a coluna completa <a href="http://www1.folha.uol.com.br/colunas/monicaberga
 			<i class="arrow-up"></i>
 			<ul class="unstyled">
 				<li class="facebook">
-					<a href="http://www.facebook.com/share.php?u=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+					<a href="http://www.facebook.com/share.php?u=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 						<i class="section-sprite facebook-small"></i>Facebook
 					</a>
 				</li>
 				<li class="whatsapp">
 					<script type="text/javascript"><!--
-					document.write( '<a href=\"whatsapp://send?text=Cineastas%20pedem%20que%20Temer%20confirme%20nomea%C3%A7%C3%A3o%20da%20presidente%20da%20Ancine http%3A%2F%2Fwww1.folha.uol.com.br%2Fcolunas%2Fmonicabergamo%2F2017%2F06%2F1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml Via Folha de S.Paulo\"><i class=\"section-sprite icon-whatsapp-small\"><\/i>Whatsapp<\/a><\/script>' ) ;
+					document.write( '<a href=\"whatsapp://send?text=Joesley%20presta%20depoimento%20%C3%A0%20PF%20em%20inqu%C3%A9rito%20sobre%20Temer http%3A%2F%2Fwww1.folha.uol.com.br%2Fpoder%2F2017%2F06%2F1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml Via Folha de S.Paulo\"><i class=\"section-sprite icon-whatsapp-small\"><\/i>Whatsapp<\/a><\/script>' ) ;
 					//--></script>
 				</li>
 				<li>
-					<a href="http://tools.folha.com.br/send?site=emcimadahora&amp;url=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+					<a href="http://tools.folha.com.br/send?site=emcimadahora&amp;url=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 						<i class="section-sprite icon-email"></i>Enviar por e-mail
 					</a>
 				</li>
 				<li class="short-cut">
-					<a href="javascript:;" class="shortcut" data-shortcut="http://folha.com/no1893287">
+					<a href="javascript:;" class="shortcut" data-shortcut="http://folha.com/no1893435">
 						<i class="section-sprite icon-url"></i>Copiar url curta
 					</a>
 				</li>
 				<li>
-					<a href="http://tools.folha.com.br/print?site=emcimadahora&amp;url=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+					<a href="http://tools.folha.com.br/print?site=emcimadahora&amp;url=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 						<i class="section-sprite icon-print"></i>Imprimir
 					</a>
 				</li>
 				<li>
-					<a href="http://tools.folha.com.br/feedback?url=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml">
+					<a href="http://tools.folha.com.br/feedback?url=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml">
 						<i class="section-sprite icon-warning"></i>Comunicar erros
 					</a>
 				</li>
@@ -2272,7 +2305,7 @@ Leia a coluna completa <a href="http://www1.folha.uol.com.br/colunas/monicaberga
 					<a href="javascript:;" data-size="small">Menor</a>
 				</li>
 				<li>
-					<a href="http://feeds.folha.uol.com.br/colunas/monicabergamo/rss091.xml">
+					<a href="http://feeds.folha.uol.com.br/poder/rss091.xml">
 						<i class="section-sprite icon-rss-small"></i>RSS
 					</a>
 				</li>
@@ -2283,69 +2316,74 @@ Leia a coluna completa <a href="http://www1.folha.uol.com.br/colunas/monicaberga
 </div>
 
 <script>
-folha.toolbar.readspeaker( "http://tools.folha.com.br/print?url=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml" ) ;
+folha.toolbar.readspeaker( "http://tools.folha.com.br/print?url=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml" ) ;
 </script>
 					
 					<section id="tags-related-box" class="box">
 						<header>
 							<h2>Temas relacionados</h2>
 						</header>
-<ul><li><a href='http://www1.folha.uol.com.br/folha-topicos/cinema/'>cinema</a></li></ul>
+<ul><li><a href='http://www1.folha.uol.com.br/folha-topicos/michel-temer/'>michel temer</a></li></ul>
 						<div class="clearfix"></div>
 					</section>
 
 
-					<div class="OUTBRAIN" data-src="http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml" data-widget-id="AR_7" data-ob-template="Folha" ></div>
+					
+					<!-- OUTBRAIN -->
+<div class="OUTBRAIN" data-src="http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml" data-widget-id="AR_1" data-ob-template="Folha" ></div>
+<div class="OUTBRAIN" data-src="http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml" data-widget-id="AR_2" data-ob-template="Folha" ></div>
 <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<!-- /OUTBRAIN -->
+					
 					<section class="ads-livrariadafolha article">
 	<h4>
 		<a class="sprite" href="http://livraria.folha.com.br/"><span>Livraria da Folha</span></a>
 	</h4>
 
 	<div class="books">
-		<div class="item" data-sku="1360973">
+		<div class="item" data-sku="1355813">
 			<div class="item_thumb">
-					<a href="http://livraria.folha.com.br/livros/sociologia/mitologia-robert-segal-1360973.html?tracking_number=783"><img src="http://images1.folha.com.br/livraria/images/1/9/1360973-100x100.png" height="100" width="100" alt="Mitologia - 50 Conceitos e Mitos Fundamentais Explicados de Forma Clara e Rápida">
+					<a href="http://livraria.folha.com.br/livros/politicas-publicas/luta-corrup-deltan-dallagnol-1355813.html?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/8/8/1355813-100x100.png" height="100" width="100" alt="A Luta Contra A Corrupção">
 					</a>
 			</div>
 			<div class="item_info">
-					<h5><a href="http://livraria.folha.com.br/livros/sociologia/mitologia-robert-segal-1360973.html?tracking_number=783">Mitologia - 50 Conceitos e Mitos Fundamentais Explicados de Forma Clara e Rápida</a></h5>
-				<h5 class="author">Robert A. Segal</h5>
+					<h5><a href="http://livraria.folha.com.br/livros/politicas-publicas/luta-corrup-deltan-dallagnol-1355813.html?tracking_number=720">A Luta Contra A Corrupção</a></h5>
+				<h5 class="author">Deltan Dallagnol</h5>
 				<div class="old-price hide">De: <span class="value"></span></div>
 				<div class="real-price hide">Por: <span class="value"></span></div>
 
-					<a href="http://livraria.folha.com.br/livros/sociologia/mitologia-robert-segal-1360973.html?tracking_number=783" class="buy">Comprar</a>
+					<a href="http://livraria.folha.com.br/livros/politicas-publicas/luta-corrup-deltan-dallagnol-1355813.html?tracking_number=720" class="buy">Comprar</a>
 			</div>
 		</div>
-		<div class="item" data-sku="1361730">
+		<div class="item" data-sku="1354084">
 			<div class="item_thumb">
-					<a href="http://livraria.folha.com.br/livros/musica/guia-politicamente-incorreto-anos-80-rock-lob-1361730.html?tracking_number=783"><img src="http://images1.folha.com.br/livraria/images/a/5/1361730-100x100.png" height="100" width="100" alt="Guia Politicamente Incorreto dos Anos 80 Pelo Rock">
+					<a href="http://livraria.folha.com.br/livros/literatura-para-jovens/politica-50-conceitos-teorias-fundamentais-1354084.html?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/3/4/1354084-100x100.png" height="100" width="100" alt="Política - 50 Conceitos E Teorias Fundamentais">
 					</a>
 			</div>
 			<div class="item_info">
-					<h5><a href="http://livraria.folha.com.br/livros/musica/guia-politicamente-incorreto-anos-80-rock-lob-1361730.html?tracking_number=783">Guia Politicamente Incorreto dos Anos 80 Pelo Rock</a></h5>
-				<h5 class="author">Lobão</h5>
+					<h5><a href="http://livraria.folha.com.br/livros/literatura-para-jovens/politica-50-conceitos-teorias-fundamentais-1354084.html?tracking_number=720">Política - 50 Conceitos E Teorias Fundamentais</a></h5>
+				<h5 class="author">Steven L. Taylor</h5>
 				<div class="old-price hide">De: <span class="value"></span></div>
 				<div class="real-price hide">Por: <span class="value"></span></div>
 
-					<a href="http://livraria.folha.com.br/livros/musica/guia-politicamente-incorreto-anos-80-rock-lob-1361730.html?tracking_number=783" class="buy">Comprar</a>
+					<a href="http://livraria.folha.com.br/livros/literatura-para-jovens/politica-50-conceitos-teorias-fundamentais-1354084.html?tracking_number=720" class="buy">Comprar</a>
 			</div>
 		</div>
 		<div class="clearfix"></div>
 
 		<ul class="list-square">
-			<li><a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1892441-intelectuais-analisam-crise-e-futuro-da-esquerda-em-livro.shtml">Intelectuais analisam crise e futuro da esquerda em livro</a></li>
-			<li><a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1783607-jornalista-expoe-em-livro-divergencias-entre-keynes-e-hayek-sobre-economia.shtml">Jornalista expõe em livro divergências entre Keynes e Hayek sobre economia</a></li>
-			<li><a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1814213-livros-trazem-exercicios-para-estimular-a-memoria.shtml">Livros trazem exercícios para estimular a memória</a></li>
 			<li><a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1817331-nao-existe-no-brasil-um-projeto-de-nacao-afirma-historiador.shtml">Não existe no Brasil um projeto de nação, afirma historiador</a></li>
 			<li><a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1826107-do-liberalismo-ao-criacionismo-livro-apresenta-50-grandes-ideias-da-humanidade.shtml">Do liberalismo ao criacionismo, livro apresenta 50 grandes ideias da humanidade</a></li>
+			<li><a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1870177-psicanalista-reflete-em-livro-como-se-livrar-dos-mitos-da-maternidade.shtml">Psicanalista reflete em livro como se livrar dos mitos da maternidade</a></li>
+			<li><a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1870162-livro-conecta-personagens-por-meio-da-cadeia-produtiva-das-drogas.shtml">Livro conecta personagens por meio da cadeia produtiva das drogas</a></li>
+			<li><a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1817439-em-livro-jornalista-aborda-relacao-entre-genetica-e-raca.shtml">Em livro, jornalista aborda relação entre genética e raça</a></li>
 		</ul>
 	</div>
 </section>
 
 <script>
 $( "section.ads-livrariadafolha.article" ).bookstore( {
-	json: "folha-colunas-article.json"
+	json: "folha-poder-article.json"
 } ) ;
 </script>
 
@@ -2390,23 +2428,178 @@ $( "section.ads-livrariadafolha.article" ).bookstore( {
 				<div class="span4">
 
 					<!-- Column Right Article -->
-					<div class="columnist-contact-info">
-	<ul class="unstyled">
-			<li itemprop="email"><i class="sprite icon-email"></i><a href="mailto:monica.bergamo@grupofolha.com.br">monica.bergamo@grupofolha.com.br</a></li>
-	</ul>
-</div>
-<!--//-->
+					
 
-
-
-<!--  <div id="ad-300x50-1" class="advertising ad-300x50">
-	<span class="label">Publicidade</span>
-	<div id="banner-300x50-1-area" class="tm-ads"></div>
-</div>-->
  
 <section class="box read-more hide"></section>
 <script>$( "section.read-more" ).read_more() ;</script>
 <div class="article-stamp hide"></div>
+
+	<section class="box especiais">
+		<header data-vr-contentbox="">
+			<h2>
+				<a href="http://www1.folha.uol.com.br/especial/2015/" data-vr-excerpttitle>
+					<span>Especiais</span>
+				</a>
+			</h2>
+
+			<a href="http://www1.folha.uol.com.br/especial/2015/" class="more" data-vr-excerpttitle><i class="sprite icon-plus"></i></a>
+
+		</header>
+
+
+		<div class="item" data-vr-contentbox="">
+
+
+					<a href="http://arte.folha.uol.com.br/poder/2017/04/12/quem-esta-na-lista/">
+
+<img src="http://f.i.uol.com.br/folha/poder/images/17101381.jpeg" width="300" height="220" alt="Folhapress" title='Folhapress'>
+			<span class="kicker">A LISTA DO FACHIN</span>
+
+			<h3 data-vr-excerpttitle>
+				Quem s&#227;o os 97 pol&#237;ticos que ser&#227;o investigados no STF e suas acusa&#231;&#245;es
+			</h3>
+
+</a>
+
+
+
+
+
+
+		</div>
+		<div class="item" data-vr-contentbox="">
+
+
+					<a href="http://arte.folha.uol.com.br/poder/2017/04/13/despachados/">
+
+<img src="http://f.i.uol.com.br/folha/poder/images/17102369.png" width="300" height="220" alt="" title=''>
+			<span class="kicker">Despachados</span>
+
+			<h3 data-vr-excerpttitle>
+				Edson Fachin envia casos de dela&#231;&#245;es Odebrecht para outras inst&#226;ncias
+			</h3>
+
+</a>
+
+
+
+
+
+
+		</div>
+		<div class="item" data-vr-contentbox="">
+
+
+					<a href="http://www1.folha.uol.com.br/poder/2017/04/1875621-assista-aos-videos-das-principais-delacoes-de-executivos-da-odebrecht.shtml">
+
+<img src="http://f.i.uol.com.br/folha/poder/images/1710473.png" width="300" height="220" alt="" title=''>
+			<span class="kicker">Fim do Mundo</span>
+
+			<h3 data-vr-excerpttitle>
+				Assista aos v&#237;deos das principais dela&#231;&#245;es de executivos da Odebrecht
+			</h3>
+
+</a>
+
+
+
+
+
+
+		</div>
+		<div class="item" data-vr-contentbox="">
+
+
+					<a href="http://www1.folha.uol.com.br/poder/2017/03/1867332-nos-tres-anos-da-lava-jato-veja-quais-sao-as-principais-frentes-da-operacao.shtml">
+
+<img src="http://f.i.uol.com.br/folha/homepage/images/17075422.png" width="300" height="120" alt="Folhapress" title='Folhapress'>
+
+			<h3 data-vr-excerpttitle>
+				Lava Jato completa tr&#234;s anos com frentes dentro e fora do Brasil
+			</h3>
+
+</a>
+
+
+
+
+
+
+		</div>
+		<div class="item" data-vr-contentbox="">
+
+
+					<a href="http://arte.folha.uol.com.br/poder/operacao-lava-jato/">
+
+<img src="http://f.i.uol.com.br/folha/poder/images/15189172.jpeg" width="300" height="220" alt="" title=''>
+			<span class="kicker">desde 2014</span>
+
+			<h3 data-vr-excerpttitle>
+				Saiba mais sobre a Lava Jato, maior investiga&#231;&#227;o sobre corrup&#231;&#227;o no pa&#237;s
+			</h3>
+
+</a>
+
+
+
+
+
+
+		</div>
+
+
+		<div class="clearfix"></div>
+
+	</section>
+
+<!--/-->
+
+<section class="box siga_a_folha">
+	<header>
+		<h2><span>Siga a folha</span></h2>
+	</header>
+
+	<ul>
+		<li class="block">
+			<div class="newsletter">
+	<h3><span class="section-sprite icon-email"></span><span class="newsletter-title">Receba nossa Newsletter</span></h3>
+
+	<div class="content thanks">
+		<p class="text">Seu e-mail foi cadastrado com sucesso. Obrigado!</p>
+	</div>
+
+	<form method="post" class="content">
+		<input type="hidden" name="origin_id" value="3">
+		<fieldset>
+			<div class="form-group">
+				<input type="text" name="email" class="input-text" placeholder="Digite seu email...">
+				<input type="submit" class="btn btn-submit" value="enviar">
+				<span class="error"></span>
+			</div>
+		</fieldset>
+	</form>
+</div>
+
+<script>
+folha.newsletter.init( '.newsletter' ) ;
+</script>
+
+		</li>
+		<li><a href="http://facebook.com/folhadesp" class="sprite facebook">Facebook</a></li>
+		<li><a href="http://twitter.com/folha" class="sprite twitter">Twitter</a></li>
+		<li><a href="https://plus.google.com/u/0/+folha/" class="sprite google_plus">Google+</a></li>
+		<li><a href="https://www.linkedin.com/company/folha-de-s-paulo?trk=company_logo" class="sprite linkedin">Linkedin</a></li>
+		<li><a href="http://pinterest.com/folhadespaulo/" class="sprite pinterest">Pinterest</a></li>
+
+		<li><a href="http://instagram.com/folhadespaulo/" class="sprite instagram">Instagram</a></li>
+		<li class="clearfix"><a href="http://www1.folha.uol.com.br/tec/740140-confira-lista-de-feeds-do-site-da-folha.shtml" class="sprite rss">RSS</a></li>
+		<li><a href="http://mais.uol.com.br/folha" class="sprite uol">UOL</a></li>
+		<li><a href="http://www.youtube.com/user/Folha" class="sprite youtube">YouTube</a></li>
+	</ul>
+	<div class="clearfix"></div>
+</section>
+
 <div id="folha-top">
 	<nav>
 		<ul>
@@ -2427,189 +2620,189 @@ $( "section.ads-livrariadafolha.article" ).bookstore( {
 folha.top.most_read = [
 	{
 		
-		title: "Mônica Bergamo: Raquel Dodge é a mais cotada para assumir PGR no lugar de Janot" ,
-		link: "http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893285-raquel-dodge-e-a-mais-cotada-para-assumir-pgr-no-lugar-de-janot.shtml"
+		title: "Ex-governadora do RN, Wilma de Faria morre aos 72" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893461-ex-governadora-do-rn-wilma-de-faria-morre-aos-72.shtml"
 	},
 	{
 		
-		title: "Mônica Bergamo: Governo estuda aumentar limite de US$ 500 para compras em free shops" ,
-		link: "http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893274-governo-estuda-aumentar-limite-de-isencao-para-compras-em-free-shops.shtml"
+		title: "Joesley presta depoimento à PF em inquérito sobre Temer" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml"
 	},
 	{
 		
-		title: "Bernardo Mello Franco: Quebrando o tabu" ,
-		link: "http://www1.folha.uol.com.br/colunas/bernardomellofranco/2017/06/1893313-quebrando-o-tabu.shtml"
+		title: "Jornalista Alexandre Garcia é hostilizado em voo" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893408-jornalista-alexandre-garcia-e-hostilizado-em-voo-com-gritos-de-golpista.shtml"
 	},
 	{
 		
-		title: "Reinaldo Azevedo: O garoto da testa tatuada é símbolo de um tempo em que primeiro se pune e depois se investiga" ,
-		link: "http://www1.folha.uol.com.br/colunas/reinaldoazevedo/2017/06/1893345-o-garoto-da-testa-tatuada-e-simbolo-de-um-tempo-em-que-primeiro-se-pune-e-depois-se-investiga.shtml"
+		title: "Doria diz que apoio a Temer é escolha entre ruim e péssimo" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893444-doria-diz-que-apoio-a-temer-e-escolha-entre-ruim-e-pessimo.shtml"
 	},
 	{
 		
-		title: "Mônica Bergamo: Procon encontra comida vencida no Paris 6, no Eataly e em outros 5 locais" ,
-		link: "http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892988-procon-encontra-comida-vencida-no-paris-6-no-eataly-e-em-outros-5-locais.shtml"
+		title: "Temer quer aprovar reformas para candidato governista, diz Haddad" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893437-temer-quer-aprovar-reformas-para-ter-candidato-limpo-em-2018-diz-haddad.shtml"
 	} ] ;
 
 // Mais comentadas
 folha.top.most_commented = [
 	{
 		
-		title: "Janio de Freitas: Gilmar Mendes promove demolição progressiva do respeito pela Justiça" ,
-		link: "http://www1.folha.uol.com.br/colunas/janiodefreitas/2017/06/1893119-gilmar-mendes-promove-demolicao-progressiva-do-respeito-pela-justica.shtml"
+		title: "\'Temer precisa comprovar inocência para ter autoridade\', diz Tasso" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893107-michel-temer-tem-de-provar-inocencia-afirma-tasso-jereissati.shtml"
 	},
 	{
 		
-		title: "Laura Carvalho: Nova queda da arrecadação desnuda equívocos da política econômica" ,
-		link: "http://www1.folha.uol.com.br/colunas/laura-carvalho/2017/06/1892966-nova-queda-da-arrecadacao-desnuda-equivocos-da-politica-economica.shtml"
+		title: "Organizadores criticam ausência de Alckmin na Marcha para Jesus" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893243-ausencia-de-alckmin-na-marcha-para-jesus-causa-mal-estar-a-organizadores.shtml"
 	},
 	{
 		
-		title: "Vladimir Safatle: O cinismo é uma forma de racionalidade" ,
-		link: "http://www1.folha.uol.com.br/colunas/vladimirsafatle/2017/06/1893339-o-cinismo-e-uma-forma-de-racionalidade.shtml"
+		title: "Amigo foi cobrado por reforma de imóvel da filha de Temer" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893125-arquiteto-cobrou-coronel-por-reforma-para-filha-de-temer.shtml"
 	},
 	{
 		
-		title: "Reinaldo Azevedo: O garoto da testa tatuada é símbolo de um tempo em que primeiro se pune e depois se investiga" ,
-		link: "http://www1.folha.uol.com.br/colunas/reinaldoazevedo/2017/06/1893345-o-garoto-da-testa-tatuada-e-simbolo-de-um-tempo-em-que-primeiro-se-pune-e-depois-se-investiga.shtml"
+		title: "Maia cogita suspender recesso para votar denúncia contra Temer" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893213-maia-cogita-suspender-recesso-para-votar-denuncia-contra-temer.shtml"
 	},
 	{
 		
-		title: "Mônica Bergamo: Raquel Dodge é a mais cotada para assumir PGR no lugar de Janot" ,
-		link: "http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893285-raquel-dodge-e-a-mais-cotada-para-assumir-pgr-no-lugar-de-janot.shtml"
+		title: "Reforma política elevaria a R$ 3 bi verba de campanha" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893323-reforma-politica-elevaria-a-r-3-bi-verba-de-campanha.shtml"
 	} ] ;
 
 // Mais enviadas
 folha.top.most_shared = [
 	{
 		
-		title: "Laura Carvalho: Nova queda da arrecadação desnuda equívocos da política econômica" ,
-		link: "http://www1.folha.uol.com.br/colunas/laura-carvalho/2017/06/1892966-nova-queda-da-arrecadacao-desnuda-equivocos-da-politica-economica.shtml"
+		title: "Reforma política elevaria a R$ 3 bi verba de campanha" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893323-reforma-politica-elevaria-a-r-3-bi-verba-de-campanha.shtml"
 	},
 	{
 		
-		title: "Mônica Bergamo: Procon encontra comida vencida no Paris 6, no Eataly e em outros 5 locais" ,
-		link: "http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892988-procon-encontra-comida-vencida-no-paris-6-no-eataly-e-em-outros-5-locais.shtml"
+		title: "Móveis da era JK são recuperados para dar ar modernista a gabinete de Temer" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893320-moveis-da-era-jk-sao-recuperados-para-dar-ar-modernista-a-gabinete-de-temer.shtml"
 	},
 	{
 		
-		title: "Janio de Freitas: Gilmar Mendes promove demolição progressiva do respeito pela Justiça" ,
-		link: "http://www1.folha.uol.com.br/colunas/janiodefreitas/2017/06/1893119-gilmar-mendes-promove-demolicao-progressiva-do-respeito-pela-justica.shtml"
+		title: "Jornalista Alexandre Garcia é hostilizado em voo" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893408-jornalista-alexandre-garcia-e-hostilizado-em-voo-com-gritos-de-golpista.shtml"
 	},
 	{
 		
-		title: "Reinaldo Azevedo: O garoto da testa tatuada é símbolo de um tempo em que primeiro se pune e depois se investiga" ,
-		link: "http://www1.folha.uol.com.br/colunas/reinaldoazevedo/2017/06/1893345-o-garoto-da-testa-tatuada-e-simbolo-de-um-tempo-em-que-primeiro-se-pune-e-depois-se-investiga.shtml"
+		title: "Instituto de Gilmar Mendes recebeu patrocínio de R$ 2,1 milhões da J&amp\;F" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1892791-instituto-de-gilmar-mendes-recebeu-patrocinio-de-r-21-milhoes-da-jf.shtml"
 	},
 	{
 		
-		title: "Contardo Calligaris: O desejo dos idosos" ,
-		link: "http://www1.folha.uol.com.br/colunas/contardocalligaris/2017/06/1892942-o-desejo-dos-idosos.shtml"
+		title: "Maia cogita suspender recesso para votar denúncia contra Temer" ,
+		link: "http://www1.folha.uol.com.br/poder/2017/06/1893213-maia-cogita-suspender-recesso-para-votar-denuncia-contra-temer.shtml"
 	} ] ;
 </script>
 
 <script type="text/javascript"><!--
 folha.unread.cache = [
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893460-fui-bombardeado-por-essa-crise-diz-ministro-da-cultura-apos-pedir-demissao.shtml', "Mônica Bergamo: Fui bombardeado por essa crise, diz ministro da Cultura após pedir demissão"],
-	['http://www1.folha.uol.com.br/colunas/clovisrossi/2017/06/1893419-turquia-culmina-liquidacao-da-midia-independente.shtml', "Clóvis Rossi: Turquia culmina liquidação da mídia independente"],
-	['http://www1.folha.uol.com.br/colunas/pedrodiniz/2017/06/1893434-de-miami-aos-hamptons-moda-praia-brasileira-tira-ferias-nos-eua.shtml', "Pedro Diniz: De Miami aos Hamptons, moda praia brasileira tira férias nos EUA"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893461-ex-governadora-do-rn-wilma-de-faria-morre-aos-72.shtml', " Ex-governadora do RN, Wilma de Faria morre aos 72"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893444-doria-diz-que-apoio-a-temer-e-escolha-entre-ruim-e-pessimo.shtml', " Doria diz que apoio a Temer é escolha entre ruim e péssimo"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893437-temer-quer-aprovar-reformas-para-ter-candidato-limpo-em-2018-diz-haddad.shtml', " Temer quer aprovar reformas para candidato governista, diz Haddad"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml', " Joesley presta depoimento à PF em inquérito sobre Temer"],
+	['http://acervofolha.blogfolha.uol.com.br/?p=4218', " Acervo Folha: Há 50 anos: Brasil contraria URSS e quer ONU isenta ao avaliar Oriente Médio"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893408-jornalista-alexandre-garcia-e-hostilizado-em-voo-com-gritos-de-golpista.shtml', " Jornalista Alexandre Garcia é hostilizado em voo"],
 	['http://painel.blogfolha.uol.com.br/?p=15285', " Painel: Após ex-presidente falar em antecipação de eleições, página de FHC pede sua volta"],
-	['http://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2017/06/1893358-a-europa-e-vitima-do-terrorismo-mas-nunca-acredita-que-ele-existe.shtml', "João Pereira Coutinho: A Europa é vítima do terrorismo, mas nunca acredita que ele existe"],
-	['http://www1.folha.uol.com.br/colunas/nelsondesa/2017/06/1893288-times-nao-banca-post-quanto-a-abertura-de-inquerito-sobre-trump.shtml', "Nelson de Sá: \'Times\' não banca \'Post\' quanto a abertura de inquérito sobre Trump"],
 	['http://painel.blogfolha.uol.com.br/?p=15277', " Painel: Janot avalia apresentar denúncias em série para minar fôlego de Temer na Câmara"],
 	['http://www1.folha.uol.com.br/colunas/reinaldoazevedo/2017/06/1893345-o-garoto-da-testa-tatuada-e-simbolo-de-um-tempo-em-que-primeiro-se-pune-e-depois-se-investiga.shtml', "Reinaldo Azevedo: O garoto da testa tatuada é símbolo de um tempo em que primeiro se pune e depois se investiga"],
-	['http://www1.folha.uol.com.br/colunas/vladimirsafatle/2017/06/1893339-o-cinismo-e-uma-forma-de-racionalidade.shtml', "Vladimir Safatle: O cinismo é uma forma de racionalidade"],
-	['http://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2017/06/1893335-rocinante-x-bmw-z4-um-teste.shtml', "Ricardo Araújo Pereira: Rocinante x BMW Z4: um teste"],
-	['http://www1.folha.uol.com.br/colunas/marceloviana/2017/06/1893325-logica-matematica-e-a-linguagem-para-falarmos-com-os-extraterrestres.shtml', "Marcelo Viana: Lógica matemática é a linguagem para falarmos com os extraterrestres"],
-	['http://www1.folha.uol.com.br/colunas/claudia-costin/2017/06/1893319-desaprendendo-a-odiar.shtml', "Claudia Costin: Desaprendendo a odiar"],
-	['http://www1.folha.uol.com.br/colunas/maragama/2017/06/1893318-pl-da-poluicao-atrasa-combustivel-limpo-nos-onibus-de-sp.shtml', "Mara Gama: \'PL da Poluição\' atrasa combustível limpo nos ônibus de SP"],
-	['http://www1.folha.uol.com.br/colunas/ruycastro/2017/06/1893315-duas-mulheres.shtml', "Ruy Castro: Duas mulheres"],
-	['http://www1.folha.uol.com.br/colunas/bernardomellofranco/2017/06/1893313-quebrando-o-tabu.shtml', "Bernardo Mello Franco: Quebrando o tabu"],
-	['http://www1.folha.uol.com.br/colunas/tatibernardi/2017/06/1893312-como-diria-o.shtml', "Tati Bernardi: Como diria o..."],
-	['http://www1.folha.uol.com.br/colunas/helioschwartsman/2017/06/1893310-prisoes-abusivas.shtml', "Hélio Schwartsman: Prisões abusivas"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml', "Mônica Bergamo: Cineastas pedem que Temer confirme nomeação da presidente da Ancine"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893285-raquel-dodge-e-a-mais-cotada-para-assumir-pgr-no-lugar-de-janot.shtml', "Mônica Bergamo: Raquel Dodge é a mais cotada para assumir PGR no lugar de Janot"],
-	['http://www1.folha.uol.com.br/colunas/nelsondesa/2017/06/1893283-facebook-usa-inteligencia-artificial-contra-terror-e-ameaca-discurso-livre.shtml', "Nelson de Sá: Facebook usa Inteligência Artificial contra terror e ameaça discurso livre"],
-	['http://www1.folha.uol.com.br/colunas/patriciacamposmello/2017/06/1893276-cuba-e-seu-bode-expiatorio-favorito.shtml', "Patrícia Campos Mello: Cuba e seu bode expiatório favorito"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893274-governo-estuda-aumentar-limite-de-isencao-para-compras-em-free-shops.shtml', "Mônica Bergamo: Governo estuda aumentar limite de US$ 500 para compras em free shops"],
-	['http://www1.folha.uol.com.br/colunas/pedropassos/2017/06/1893253-estamos-nos-afastando-nao-so-do-desenvolvimento-mas-da-civilizacao.shtml', "Pedro Passos: Estamos nos afastando não só do desenvolvimento, mas da civilização"],
-	['http://www1.folha.uol.com.br/colunas/viniciustorres/2017/06/1893234-aviso.shtml', "Vinicius Torres Freire: Aviso"],
-	['http://www1.folha.uol.com.br/colunas/rogerio-chequer/2017/06/1893189-aviso.shtml', "Rogério Chequer: Aviso"],
-	['http://www1.folha.uol.com.br/colunas/marilizpereirajorge/2017/06/1893188-os-homens-tambem-choram.shtml', "Mariliz Pereira Jorge: Os homens também choram"],
-	['http://www1.folha.uol.com.br/colunas/mercadoaberto/2017/06/1893101-empresas-de-servicos-em-sao-paulo-crescem-27-no-primeiro-quadrimetre.shtml', "Mercado Aberto: Empresas de serviços em São Paulo crescem 2,7% no primeiro quadrimetre"],
-	['http://www1.folha.uol.com.br/colunas/mercadoaberto/2017/06/1893099-investimento-em-fintechs-pelo-mundo-cai-24-no-1-trimestre.shtml', "Mercado Aberto: Investimento em fintechs pelo mundo cai 24% no 1° trimestre"],
-	['http://www1.folha.uol.com.br/colunas/mercadoaberto/2017/06/1893098-nova-lei-do-iss-mantem-concentracao-de-recursos-dizem-empresas.shtml', "Mercado Aberto: Nova lei do ISS mantém concentração de recursos, dizem empresas"],
-	['http://www1.folha.uol.com.br/colunas/contardocalligaris/2017/06/1892942-o-desejo-dos-idosos.shtml', "Contardo Calligaris: O desejo dos idosos"],
-	['http://www1.folha.uol.com.br/colunas/josesimao/2017/06/1892939-corpus-christi-feriado-em-latim.shtml', "José Simão: Corpus Christi! Feriado em latim!"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893324-decisao-do-tse-nao-e-sinal-de-colapso-da-democracia.shtml', " Decisão do TSE não é sinal de colapso da democracia"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893323-reforma-politica-elevaria-a-r-3-bi-verba-de-campanha.shtml', " Reforma política elevaria a R$ 3 bi verba de campanha"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893321-revelacao-de-grampo-coloca-mais-um-governador-de-mt-sob-suspeita.shtml', " Revelação de grampo coloca mais um governador de MT sob suspeita"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893320-moveis-da-era-jk-sao-recuperados-para-dar-ar-modernista-a-gabinete-de-temer.shtml', " Móveis da era JK são recuperados para dar ar modernista a gabinete de Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893305-defesa-de-palocci-relaciona-mantega-a-pagamento-a-marqueteiros.shtml', " Defesa de Palocci relaciona Mantega a pagamento a marqueteiros"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893262-novo-aviao-da-fab-faz-o-primeiro-voo.shtml', " Novo avião da FAB faz o primeiro voo"],
+	['http://acervofolha.blogfolha.uol.com.br/?p=4215', " Acervo Folha: Há 50 anos: Escolas municipais de São Paulo recebem matrículas para 1968"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893243-ausencia-de-alckmin-na-marcha-para-jesus-causa-mal-estar-a-organizadores.shtml', " Organizadores criticam ausência de Alckmin na Marcha para Jesus"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893213-maia-cogita-suspender-recesso-para-votar-denuncia-contra-temer.shtml', " Maia cogita suspender recesso para votar denúncia contra Temer"],
+	['http://www1.folha.uol.com.br/mundo/2017/06/1893208-ministro-da-justica-argentino-diz-esperar-acordo-com-odebrecht.shtml', " Ministro da Justiça argentino diz esperar acordo com Odebrecht"],
+	['http://blogdofred.blogfolha.uol.com.br/?p=36597', " Frederico Vasconcelos: Fato inédito no julgamento do TSE"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893200-pastor-ora-pelo-fim-da-corrupcao-no-inicio-da-marcha-para-jesus.shtml', " Pastor ora pelo fim da corrupção na Marcha para Jesus"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893107-michel-temer-tem-de-provar-inocencia-afirma-tasso-jereissati.shtml', " \'Temer precisa comprovar inocência para ter autoridade\', diz Tasso"],
 	['http://painel.blogfolha.uol.com.br/?p=15271', " Painel: TCU determina auditoria na folha de pagamento de empresas estatais para apurar cumprimento do teto"],
-	['http://www1.folha.uol.com.br/colunas/clovisrossi/2017/06/1893155-quando-a-democracia-era-so-festa.shtml', "Clóvis Rossi: Quando a democracia era só festa"],
-	['http://www1.folha.uol.com.br/colunas/jucakfouri/2017/06/1893151-dopar-no-brasil-pode-o-que-nao-pode-e-descobrir-o-doping.shtml', "Juca Kfouri: Dopar, no Brasil, pode. O que não pode é descobrir o doping"],
-	['http://www1.folha.uol.com.br/colunas/bernardomellofranco/2017/06/1893150-jorge-bastos-moreno.shtml', "Bernardo Mello Franco: Jorge Bastos Moreno"],
-	['http://www1.folha.uol.com.br/colunas/robertodias/2017/06/1893147-ha-20-anos-a-foto-que-compartilhou-uma-revolucao.shtml', "Roberto Dias: Há 20 anos, a foto que compartilhou uma revolução"],
-	['http://www1.folha.uol.com.br/colunas/matiasspektor/2017/06/1893144-enquanto-tse-afundava-a-republica-britanicos-davam-show-de-democracia.shtml', "Matias Spektor: Enquanto TSE afundava a República, britânicos davam show de democracia"],
-	['http://www1.folha.uol.com.br/colunas/marco-aurelio-canonico/2017/06/1893139-encontro-de-paulinho-da-viola-e-marisa-monte-redime-um-pais-em-crise.shtml', "Marco Aurélio Canônico: Encontro de Paulinho da Viola e Marisa Monte redime um país em crise"],
-	['http://www1.folha.uol.com.br/colunas/viniciustorres/2017/06/1893136-crise-politica-nao-bateu-na-economia-real.shtml', "Vinicius Torres Freire: Crise política não bateu na economia \'real\'"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893159-obras-da-odebrecht-custaram-us-6-bi-a-mais-do-que-o-previsto-nos-contratos.shtml', " Obras da Odebrecht custaram US$ 6 bi a mais em países onde ela corrompeu"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893131-agencia-lupa-as-contradicoes-de-fernando-henrique-cardoso.shtml', " Agência Lupa: As contradições de Fernando Henrique Cardoso"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893125-arquiteto-cobrou-coronel-por-reforma-para-filha-de-temer.shtml', " Amigo foi cobrado por reforma de imóvel da filha de Temer"],
 	['http://www1.folha.uol.com.br/colunas/janiodefreitas/2017/06/1893119-gilmar-mendes-promove-demolicao-progressiva-do-respeito-pela-justica.shtml', "Janio de Freitas: Gilmar Mendes promove demolição progressiva do respeito pela Justiça"],
-	['http://www1.folha.uol.com.br/colunas/jota/2017/06/1893087-o-supremo-tribunal-federal-e-refem-de-suas-proprias-decisoes.shtml', "Jota: O Supremo Tribunal Federal é refém de suas próprias decisões"],
-	['http://www1.folha.uol.com.br/colunas/zecacamargo//2017/06/1893086-livro-ataca-com-elegancia-o-turista-esnobe.shtml', "Zeca Camargo: Livro ataca com elegância o turista esnobe"],
-	['http://www1.folha.uol.com.br/colunas/vaivem/2017/06/1893081-exportacao-de-tabaco-ate-maio-e-a-menor-em-12-anos.shtml', "Vaivém das Commodities: Exportação de tabaco até maio é a menor em 12 anos"],
-	['http://www1.folha.uol.com.br/colunas/sergio-rodrigues/2017/06/1893077-metaforas-de-herman-benjamin-sao-epitafios-da-nova-republica.shtml', "Sérgio Rodrigues: Metáforas de Herman Benjamin são epitáfios da Nova República"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892996-fernanda-lima-aceita-convite-para-ser-madrinha-da-parada-gay.shtml', "Mônica Bergamo: Fernanda Lima aceita convite para ser madrinha da Parada Gay"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892988-procon-encontra-comida-vencida-no-paris-6-no-eataly-e-em-outros-5-locais.shtml', "Mônica Bergamo: Procon encontra comida vencida no Paris 6, no Eataly e em outros 5 locais"],
-	['http://www1.folha.uol.com.br/colunas/laura-carvalho/2017/06/1892966-nova-queda-da-arrecadacao-desnuda-equivocos-da-politica-economica.shtml', "Laura Carvalho: Nova queda da arrecadação desnuda equívocos da política econômica"],
-	['http://www1.folha.uol.com.br/colunas/redesocial/2017/06/1892905-meus-15-anos-de-larissa-manoela-inspira-garotas-vizinhas-da-cracolandia.shtml', "Rede Social: \'Meus 15 Anos\', de Larissa Manoela, inspira garotas vizinhas da cracolândia"],
-	['http://www1.folha.uol.com.br/colunas/clovisrossi/2017/06/1892934-igreja-do-mexico-rende-se-ao-narcotrafico.shtml', "Clóvis Rossi: Igreja do México rende-se ao narcotráfico"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893108-se-pinguela-quebrar-vamos-a-nado-diz-fhc.shtml', " \'Se pinguela quebrar, vamos a nado\', diz FHC"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893103-em-congresso-de-cirurgia-plastica-dallagnol-questiona-somos-golpistas-dos-golpistas.shtml', " Em congresso de cirurgia plástica, Dallagnol questiona: \'Somos golpistas dos golpistas?\'"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893092-ministro-autoriza-inquerito-para-investigar-beto-richa.shtml', " Ministro do STJ autoriza inquérito para investigar Beto Richa"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1893076-ex-pgr-pede-impeachment-de-gilmar-mendes-por-atuacao-politica.shtml', " Ex-PGR pede impeachment de Gilmar Mendes por atuação política"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892997-artistas-e-politicos-velam-corpo-de-jornalista-jorge-bastos-moreno.shtml', " Artistas e políticos velam corpo de jornalista Jorge Bastos Moreno"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892958-marcha-para-jesus-evitara-crise-mas-vai-orar-pelo-pais-diz-bispo.shtml', " Marcha para Jesus evitará falar de crise, mas vai \'orar pelo país\', diz bispo"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892957-pedido-de-explicacoes-de-fachin-sobre-suposta-relacao-com-jbs-e-arquivado.shtml', " Pedido de explicações de Fachin sobre suposta relação com JBS é arquivado"],
+	['http://acervofolha.blogfolha.uol.com.br/?p=4194', " Acervo Folha: Há 50 anos: Sem apoio do Brasil, soviéticos pressionam ONU contra Israel"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892921-cunha-diz-que-seu-silencio-nunca-esteve-a-venda.shtml', " Em depoimento, Cunha diz que seu silêncio \'nunca esteve à venda\'"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892918-juiza-manda-soltar-silval-barbosa-ex-governador-de-mato-grosso.shtml', " Juíza determina prisão domiciliar de Silval Barbosa, ex-governador de MT"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892911-aliado-de-cunha-diz-que-depoimento-ira-mostrar-inocencia-de-temer.shtml', " Aliado de Cunha diz que depoimento irá mostrar inocência de Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892908-jogo-de-zumbis-lanca-feiticeiro-das-trevas-parecido-com-temer.shtml', " Jogo de zumbis lança \'feiticeiro das trevas\' parecido com Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892907-apos-ignorar-stf-senado-retira-nome-de-aecio-neves-do-painel-de-votacao.shtml', " Após ignorar STF, Senado corta salário e retira nome de Aécio do painel"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892883-marcha-para-jesus-fecha-ruas-de-sp-a-partir-desta-quarta-feira-14.shtml', " Marcha para Jesus fecha ruas de SP a partir desta quarta-feira (14)"],
+	['http://blogdofred.blogfolha.uol.com.br/?p=36584', " Frederico Vasconcelos: Instituto defende ministros-advogados do TSE"],
 	['http://www1.folha.uol.com.br/colunas/leandro-narloch/2017/06/1892885-caso-da-tatuagem-na-testa-toca-na-contradicao-da-natureza-humana.shtml', "Leandro Narloch: Caso da tatuagem na testa toca na contradição da natureza humana"],
-	['http://www1.folha.uol.com.br/colunas/mercadoaberto/2017/06/1892895-casos-de-assedio-sexual-caem-na-justica-de-sp.shtml', "Mercado Aberto: Casos de assédio sexual caem na Justiça de SP"],
-	['http://www1.folha.uol.com.br/colunas/igorgielow/2017/06/1892653-depois-do-twin-peaks-do-tse-politica-ve-o-faroeste-janot-x-temer.shtml', "Igor Gielow: Depois do \'Twin Peaks\' do TSE, política vê o faroeste Janot x Temer"],
-	['http://www1.folha.uol.com.br/colunas/mercadoaberto/2017/06/1892769-com-crise-seguradoras-do-brasil-descolam-das-do-resto-do-mundo.shtml', "Mercado Aberto: Com crise, seguradoras do Brasil \'descolam\' das do resto do mundo"],
-	['http://www1.folha.uol.com.br/colunas/nelsondesa/2017/06/1892804-dantas-estreia-na-lista-de-bilionarios-da-bloomberg-com-us-18-bi.shtml', "Nelson de Sá: Dantas estreia na lista de bilionários da Bloomberg, com US$ 1,8 bi"],
-	['http://outrocanal.blogfolha.uol.com.br/?p=11974', " Outro Canal: Quem dera ser um peixe: ator Davi Sereio, que se veste de sereia, é entrevistado por Porchat"],
-	['http://outrocanal.blogfolha.uol.com.br/?p=11980', " Outro Canal: Lázaro Ramos diz que seu programa dominical atenderá pedido do público para ter mais voz na TV"],
-	['http://outrocanal.blogfolha.uol.com.br/?p=11990', " Outro Canal: Maitê Proença tem projeto de série documental sobre mulheres que fazem a diferença"],
-	['http://outrocanal.blogfolha.uol.com.br/?p=11992', " Outro Canal: \'Superbonita\' com Karol Conká tem audiência maior e nova temporada com a cantora"],
-	['http://outrocanal.blogfolha.uol.com.br/?p=11998', " Outro Canal: Neymar, Gabriel Medina, Bruninho e Thiaguinho participam do \'Vai, Fernandinha\', do Multishow"],
-	['http://outrocanal.blogfolha.uol.com.br/?p=12002', " Outro Canal: \'Conversa com Bial\' tem recorde de audiência semanal em SP"],
+	['http://novoemfolha.blogfolha.uol.com.br/?p=6769', " Novo em Folha: Concurso premia repórteres de turismo com viagens à Europa"],
+	['http://blogdofred.blogfolha.uol.com.br/?p=36580', " Frederico Vasconcelos: Sucessão de Janot e listas paralelas"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892875-morre-aos-63-anos-o-jornalista-jorge-bastos-moreno.shtml', " Morre aos 63 anos o jornalista Jorge Bastos Moreno"],
+	['http://acervofolha.blogfolha.uol.com.br/?p=4171', " Acervo Folha: Há 45 anos, morria Leila Diniz, ícone do feminismo"],
 	['http://painel.blogfolha.uol.com.br/?p=15253', " Painel: Com revés no STF para Andrea, tucanos se preocupam com pedido de prisão de Aécio"],
 	['http://painel.blogfolha.uol.com.br/?p=15254', " Painel: Por acordo de delação, Renato Duque contrata perícia para recuperar arquivos deletados"],
-	['http://www1.folha.uol.com.br/colunas/tostao/2017/06/1892824-analistas-deveriam-ser-mais-prudentes-ao-exaltar-times-tecnicos-e-jogadores.shtml', "Tostão: Analistas deveriam ser mais prudentes ao exaltar times, técnicos e jogadores"],
-	['http://www1.folha.uol.com.br/colunas/ericafraga/2017/06/1892819-quando-a-escola-mata-o-aluno.shtml', "Érica Fraga: Quando a escola \'mata\' o aluno"],
-	['http://www1.folha.uol.com.br/colunas/viniciustorres/2017/06/1892816-mercado-nao-ligou-para-conversinha-de-temer-e-reformas-paradas.shtml', "Vinicius Torres Freire: Mercado não ligou para conversinha de Temer e reformas paradas"],
-	['http://www1.folha.uol.com.br/colunas/bernardomellofranco/2017/06/1892809-ganancia-desmedida.shtml', "Bernardo Mello Franco: Ganância desmedida"],
-	['http://www1.folha.uol.com.br/colunas/antoniodelfim/2017/06/1892803-e-preciso-rever-os-impostos-sobre-a-exportacao.shtml', "Antonio Delfim Netto: É preciso rever os impostos sobre a exportação"],
-	['http://www1.folha.uol.com.br/colunas/helioschwartsman/2017/06/1892801-estado-capturado.shtml', "Hélio Schwartsman: Estado capturado"],
-	['http://www1.folha.uol.com.br/colunas/ruycastro/2017/06/1892800-crimes-da-mala.shtml', "Ruy Castro: Crimes da mala"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892794-ato-em-defesa-de-gays-da-tchetchenia-leva-flores-a-consulado-russo-em-sp.shtml', "Mônica Bergamo: Ato em defesa de gays da Tchetchênia leva flores a consulado russo em SP"],
-	['http://www1.folha.uol.com.br/colunas/eliogaspari/2017/06/1892789-o-stf-fala-demais-e-cala-demais.shtml', "Elio Gaspari: O STF fala demais e cala demais"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892786-prefeitura-esta-em-guerra-na-cracolandia-diz-secretario-de-doria.shtml', "Mônica Bergamo: Prefeitura está em guerra na cracolândia, diz secretário de Doria"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892783-gilberto-gil-conversa-com-a-vai-vai-sobre-enredo-em-sua-homenagem.shtml', "Mônica Bergamo: Gilberto Gil conversa com a Vai-Vai sobre enredo em sua homenagem"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892782-deltan-dallagnol-faz-palestra-em-congresso-de-cirurgia-plastica.shtml', "Mônica Bergamo: Procurador da Lava Jato faz palestra em congresso de cirurgia plástica"],
-	['http://www1.folha.uol.com.br/colunas/marcostroyjo/2017/06/1892781-brasil-precisa-de-profissionais-da-globalizacao.shtml', "Marcos Troyjo: Brasil precisa de profissionais da globalização"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892774-jbs-compara-delacao-de-joesley-com-a-de-odebrecht-para-defender-acordo.shtml', "Mônica Bergamo: JBS compara delação de Joesley com a de Odebrecht para defender acordo"],
-	['http://www1.folha.uol.com.br/colunas/vaivem/2017/06/1892773-sojicultor-paranaense-consegue-o-triplo-da-produtividade-media-do-pais.shtml', "Vaivém das Commodities: Sojicultor paranaense consegue o triplo da produtividade média do país"],
-	['http://www1.folha.uol.com.br/colunas/marcelocoelho/2017/06/1892764-nao-so-o-tse-mas-todos-os-lados-saem-do-julgamento-de-temer-sob-suspeita.shtml', "Marcelo Coelho: Não só o TSE, mas todos os lados saem do julgamento de Temer sob suspeita"],
-	['http://www1.folha.uol.com.br/colunas/reinaldo/2017/06/1892763-pequenos-prazeres.shtml', "Reinaldo Figueiredo: Pequenos Prazeres"],
-	['http://www1.folha.uol.com.br/colunas/ninahorta/2017/06/1892652-papel-caneta-e-anotar-o-que-se-come.shtml', "Nina Horta: Papel, caneta e anotar o que se come"],
-	['http://www1.folha.uol.com.br/colunas/alexandreschwartsman/2017/06/1892642-decisao-do-tse-abre-as-portas-para-toda-especie-de-abuso.shtml', "Alexandre Schwartsman: Decisão do TSE abre as portas para toda espécie de abuso"],
-	['http://www1.folha.uol.com.br/colunas/nelsondesa/2017/06/1892802-agora-e-a-uniao-europeia-nao-mais-o-reino-unido-que-quer-o-brexit.shtml', "Nelson de Sá: Agora é a União Europeia, não mais o Reino Unido, que quer o \'brexit\'"],
-	['http://www1.folha.uol.com.br/colunas/martinwolf/2017/06/1892672-reino-unido-caminha-rumo-a-um-brexit-caotico.shtml', "Martin Wolf: Reino Unido caminha rumo a um \'brexit\' caótico"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892579-problema-ja-foi-superado-diz-sturm-apos-discussao-com-secretario.shtml', "Mônica Bergamo: Problema já foi superado, diz Sturm após discussão com secretário"],
-	['http://www1.folha.uol.com.br/colunas/clovisrossi/2017/06/1892562-esquerda-enfim-acorda-e-critica-maduro.shtml', "Clóvis Rossi: Esquerda enfim acorda e critica Nicolás Maduro"],
-	['http://www1.folha.uol.com.br/colunas/por-que-economes-em-bom-portugues/2017/06/1892333-qual-o-melhor-antidoto-contra-crises-bancarias.shtml', "Por quê? Economês em bom português: Qual o melhor antídoto contra crises bancárias?"],
-	['http://www1.folha.uol.com.br/colunas/mercadoaberto/2017/06/1892443-guarda-roupas-dos-brasileiros-fica-mais-informal-com-a-crise-economica.shtml', "Mercado Aberto: Guarda-roupas dos brasileiros fica mais informal com a crise econômica"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892792-temer-doou-a-campanha-de-deputado-cotado-para-relatar-denuncia.shtml', " Temer doou à campanha de deputado cotado para relatar denúncia"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892791-instituto-de-gilmar-mendes-recebeu-patrocinio-de-r-21-milhoes-da-jf.shtml', " Instituto de Gilmar Mendes recebeu patrocínio de R$ 2,1 milhões da J&amp\;F"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892788-ministerio-publico-de-contas-ve-falhas-nas-financas-da-assembleia.shtml', " Ministério Público de Contas vê falhas nas finanças da Assembleia"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892793-projeto-da-beneficio-a-igreja-em-fila-da-justica-no-rio.shtml', " Projeto dá benefício a igreja em fila da Justiça no Rio"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892780-organizador-da-marcha-para-jesus-remove-video-com-temer.shtml', " Idealizador da Marcha para Jesus remove vídeo com Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892766-joesley-volta-ao-brasil-e-diz-que-nao-estava-passeando-na-quinta-avenida.shtml', " Joesley volta ao Brasil e diz que não estava \'passeando na Quinta Avenida\'"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892757-eunicio-se-reune-com-fachin-para-discutir-afastamento-de-aecio.shtml', " Eunício se reúne com Fachin para discutir afastamento de Aécio"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892747-cunha-pede-para-adiar-depoimento-sobre-jbs-marcado-para-esta-quarta.shtml', " Cunha pede para adiar depoimento sobre JBS marcado para esta quarta"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892716-secretario-do-psdb-diz-que-decisao-de-permanecer-no-governo-foi-caciquismo.shtml', " Secretário do PSDB diz que decisão de permanecer no governo foi caciquismo"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892714-defesa-diz-que-aecio-esta-afastado-do-cargo.shtml', " Defesa diz que Aécio está afastado do cargo"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892670-tasso-diz-que-nao-ve-debandada-apos-psdb-manter-apoio-a-temer.shtml', " Tasso diz que não vê \'debandada\' após PSDB manter apoio a Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892650-miguel-reale-jr-pede-desfiliacao-apos-psdb-decidir-ficar-no-governo-temer.shtml', " Miguel Reale Jr. pede desfiliação após PSDB decidir ficar no governo Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892639-fachin-manda-transferir-loures-para-a-pf-apos-defesa-alegar-risco-de-vida.shtml', " Fachin manda transferir Loures para a PF após defesa alegar \'risco de vida\'"],
+	['http://blogdofred.blogfolha.uol.com.br/?p=36577', " Frederico Vasconcelos: Dallagnol fala em evento de cirurgia plástica"],
+	['http://www1.folha.uol.com.br/mercado/2017/06/1892635-comissao-aprova-nomes-indicados-pelo-governo-para-o-cade.shtml', " Comissão aprova nomes indicados pelo governo para o Cade"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892634-stf-mantem-prisao-de-irma-do-senador-aecio-neves.shtml', " STF mantém prisão de Andrea Neves, irmã de Aécio"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892631-jornalista-miriam-leitao-relata-agressao-de-petistas-em-voo.shtml', " Jornalista Míriam Leitão relata agressão de petistas em voo"],
+	['http://acervofolha.blogfolha.uol.com.br/?p=4167', " Acervo Folha: Há 50 anos: Israel repele mediação da ONU e diz que só conversa com árabes"],
+	['http://blogdofred.blogfolha.uol.com.br/?p=36544', " Frederico Vasconcelos: Abrindo a caixa-preta do MP de Minas"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892616-no-vaivem-do-psdb-alckmin-conseguiu-ser-pro-e-contra-temer.shtml', " No vaivém do PSDB, Alckmin conseguiu ser pró e contra Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892608-cotado-para-relatar-denuncia-diz-que-ha-conspiracao-para-derrubar-temer.shtml', " Cotado para relatar denúncia diz que há \'conspiração\' para derrubar Temer"],
+	['http://novoemfolha.blogfolha.uol.com.br/?p=6764', " Novo em Folha: Folha promove pré-estreia de documentário de Leandra Leal sobre travestis"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892593-moro-condena-cabral-a-14-anos-e-2-meses-de-prisao-na-lava-jato.shtml', " Moro condena Cabral a 14 anos e 2 meses de prisão na Lava Jato"],
+	['http://www1.folha.uol.com.br/mundo/2017/06/1892573-pf-deflagra-operacao-contra-empresa-brasileira-por-suspeita-em-madri.shtml', " PF investiga construtora brasileira por caso de corrupção em Madri"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892572-eunicio-diz-aguardar-decisao-do-stf-sobre-afastamento-de-aecio-do-senado.shtml', " Eunício diz aguardar decisão do STF sobre afastamento de Aécio do Senado"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892564-com-receio-de-operacao-geddel-oferece-passaporte-e-sigilo-bancario.shtml', " Com receio de operação, Geddel oferece passaporte e sigilo bancário"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892472-inspecao-ve-falhas-e-favorecimento-no-ministerio-publico-de-minas.shtml', " Inspeção vê falhas e favorecimento no Ministério Público de Minas"],
 	['http://painel.blogfolha.uol.com.br/?p=15243', " Painel: Após Cármen Lúcia ignorar Temer, ministro da Justiça acionou quatro integrantes do Supremo"],
 	['http://painel.blogfolha.uol.com.br/?p=15244', " Painel: Justiça nega habeas corpus a hacker que clonou o telefone celular de Marcela Temer"],
-	['http://www1.folha.uol.com.br/colunas/nabil-bonduki/2017/06/1892521-perder-ganhando.shtml', "Nabil Bonduki: Perder ganhando"],
-	['http://www1.folha.uol.com.br/colunas/edgardalves/2017/06/1892520-novas-regras-do-coi-visam-tornar-a-olimpiada-mais-feminina-e-moderna.shtml', "Edgard Alves: Novas regras do COI visam tornar a Olimpíada mais feminina e moderna"],
-	['http://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2017/06/1892516-o-ridiculo-na-politica.shtml', "Alvaro Costa e Silva: O ridículo na política"],
-	['http://www1.folha.uol.com.br/colunas/vaivem/2017/06/1892508-apetite-chines-impede-queda-maior-da-soja-brasil-lidera-exportacoes.shtml', "Vaivém das Commodities: Apetite chinês impede queda maior da soja\; Brasil lidera exportações"],
-	['http://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2017/06/1892492-absolvicao-da-chapa-pelo-tse-e-dura-derrota-para-o-brasil.shtml', "Joel Pinheiro da Fonseca: Absolvição da chapa Dilma-Temer pelo TSE é dura derrota para o Brasil"],
-	['http://www1.folha.uol.com.br/colunas/josesimao/2017/06/1892483-ueba-temer-x-ele-mesmo.shtml', "José Simão: Ueba! Temer X Ele Mesmo!"],
-	['http://www1.folha.uol.com.br/colunas/joaopereiracoutinho/2017/06/1892482-para-a-geracao-y-antes-do-naufragio-imaginario-ja-ha-afogados-reais.shtml', "João Pereira Coutinho: Para a geração Y, antes do naufrágio (imaginário), já há afogados (reais)"],
-	['http://www1.folha.uol.com.br/colunas/bernardomellofranco/2017/06/1892476-casamento-de-conveniencia.shtml', "Bernardo Mello Franco: Casamento de conveniência"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892471-orgao-de-patrimonio-rejeita-tombamento-e-abre-caminho-para-novo-shopping.shtml', "Mônica Bergamo: Órgão de patrimônio rejeita tombamento e abre caminho para novo shopping"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892461-apos-troca-de-farpas-gilmar-mendes-e-herman-benjamin-mantem-dialogo.shtml', "Mônica Bergamo: Após troca de farpas, Gilmar Mendes e Herman Benjamin mantêm diálogo"],
-	['http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1892459-governo-teve-surpresa-com-voto-de-fux-em-julgamento-no-tse.shtml', "Mônica Bergamo: Governo teve surpresa com voto de Fux em julgamento no TSE"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892499-encontro-de-ex-procurador-geral-de-mg-antes-de-operacao-gera-polemica.shtml', " Encontro de ex-procurador-geral de MG antes de operação gera polêmica"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892491-ministro-do-stf-cobra-do-senado-o-afastamento-de-aecio-neves.shtml', " Ministro do STF cobra do Senado o afastamento de Aécio Neves"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892490-temer-tenta-acelerar-votacao-de-possivel-denuncia-na-ccj.shtml', " Temer tenta acelerar votação de possível denúncia na CCJ"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892489-delacao-do-marqueteiro-duda-mendonca-chega-ao-stf.shtml', " Delação de marqueteiro cita aliado de Michel Temer no Congresso"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892494-ex-presidente-da-cptm-e-denunciado-e-promotor-ve-desvio-de-r-538-mi.shtml', " Ex-presidente da CPTM é denunciado, e promotor vê desvio de R$ 538 mi"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892478-por-2018-doria-e-alckmin-defendem-alianca-com-pmdb-de-temer.shtml', " Por 2018, Doria e Alckmin defendem aliança com PMDB de Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892484-rede-pede-ao-stf-anulacao-de-decisao-do-tse-que-absolveu-dilma-e-temer.shtml', " Rede pede ao STF anulação de decisão do TSE que absolveu Dilma e Temer"],
+	['http://blogdofred.blogfolha.uol.com.br/?p=36550', " Frederico Vasconcelos: Desembargador seguiria voto de Benjamin"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892444-quem-quer-reconhecimento-e-como-corrupto-diz-juiz-da-lava-jato-do-rio.shtml', " Quem quer reconhecimento é como corrupto, diz juiz da Lava Jato do Rio"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892451-psdb-decide-permanecer-no-governo-de-michel-temer.shtml', " PSDB decide permanecer no governo de Michel Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892442-ha-excesso-de-individualismo-no-stf-afirmam-professores-da-usp.shtml', " Há excesso de individualismo no STF, afirmam professores da USP"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892435-fachin-prorroga-prazo-para-pf-concluir-inquerito-sobre-temer.shtml', " Fachin prorroga prazo para PF concluir inquérito sobre Temer"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892422-em-debate-no-stf-especialistas-divergem-sobre-direito-a-esquecimento.shtml', " Em debate no STF, especialistas divergem sobre direito a esquecimento"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892415-a-solucao-e-prender-aecio-diz-o-procurador-deltan-dallagnol.shtml', " \'A solução é prender Aécio\', diz o procurador Deltan Dallagnol"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892334-para-reduzir-mal-estar-com-stf-temer-prega-equilibrio-entre-poderes.shtml', " Para reduzir mal-estar com STF, Temer prega equilíbrio entre poderes"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892329-em-nova-nota-carmen-lucia-cita-pgr-e-diz-que-nao-tolerara-irregularidade.shtml', " Em nova nota, Cármen Lúcia cita PGR e diz que não tolerará irregularidade"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892305-paulinho-da-forca-e-condenado-e-tem-direitos-politicos-cassados-por-5-anos.shtml', " Paulinho da Força é condenado e tem direitos políticos cassados por 5 anos"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892300-por-apoio-temer-recebera-governadores-para-discutir-alivio-financeiro.shtml', " Por apoio, Temer reúne governadores para discutir alívio financeiro"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892290-em-ato-falho-fux-chama-carmen-lucia-de-presidente-da-republica.shtml', " Em ato falho, Fux chama Cármen Lúcia de presidente da República"],
+	['http://www1.folha.uol.com.br/poder/2017/06/1892268-tse-usou-artificio-para-excluir-delacoes-de-julgamento-diz-fux.shtml', " TSE usou \'artifício\' para excluir delações de julgamento, diz Fux"],
+	['http://novoemfolha.blogfolha.uol.com.br/?p=6760', " Novo em Folha: Folha promove lançamento de livro sobre relacionamentos com mulheres mais velhas"],
+	['http://blogdofred.blogfolha.uol.com.br/?p=36539', " Frederico Vasconcelos: O Supremo sob ataque"],
 	[]
 ];
 
@@ -2623,8 +2816,8 @@ $( "#folha-top" ).folha_top( {
 	most_read: folha.top.most_read ,
 	most_commented: folha.top.most_commented ,	
 	most_shared: folha.top.most_shared ,
-	unread: folha.unread.cache,
-	news_index: "Em Colunistas"
+	unread: folha.unread.cache ,
+	news_index: "Em Poder"
 } ) ;
 </script>
 <!-- ad-300x250-2 -->	
@@ -2635,8 +2828,39 @@ $( "#folha-top" ).folha_top( {
         </script>
 	</div>
 <!-- /ad-300x250-2 -->
-<!-- // -->
-<div class="advertising ad-300x40">
+
+
+	<section class="box patrocinado estudio_folha has_top_image">
+		<header data-vr-contentbox="">
+			<h2>
+					<img src="http://f.i.uol.com.br/estudiofolha/images/topo-estudio_folha_sem_barra-290x40.jpg" width="290" alt="Est&#250;dio Folha">
+			</h2>
+			
+
+		</header>
+
+		
+		<div class="item">
+
+
+					<a href="http://estudio.folha.com.br/brasil-que-voa/2017/05/1886629-preco-do-combustivel-de-aviacao-no-brasil-e-46-maior-do-que-nos-eua.shtml">
+<img src="http://f.i.uol.com.br/estudiofolha/images/1715290.jpeg" width="150" class="beside" height="115" alt="Abear &ndash; Abear" title="Abear &ndash; Abear">
+			<div class="title">
+			<h3 data-vr-excerpttitle>Combust&#237;vel de avia&#231;&#227;o</h3>
+
+			<p class="description">No Brasil, o pre&#231;o final &#233; 46% maior do que nos EUA</p>
+			</div>
+
+</a>
+		</div>
+
+		
+
+		<div class="clearfix"></div>
+
+</section>
+<!--/-->
+<div class="advertising ad-300x50">
 	<span class="label">Publicidade</span>
 	<a href="http://livraria.folha.com.br/hotsite/livraria-8-anos?tracking_number=711">
 		<img src="http://f.i.uol.com.br/livraria/promocoes/images/17153237.png" alt="ANIVERSÁRIO LIVRARIA">
@@ -2644,6 +2868,29 @@ $( "#folha-top" ).folha_top( {
 </div>
 <!-- // -->
 <!--/-->
+<section class="box livraria-plus">
+	<header>
+		<h2><a href="http://livraria.folha.com.br/"><span>+ Livraria</span></a></h2>
+	</header>
+	<div class="item">
+		<ul class="list-square">
+			<li>
+				<a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1892441-intelectuais-analisam-crise-e-futuro-da-esquerda-em-livro.shtml"><h3>Intelectuais analisam crise e futuro da esquerda em livro</h3></a>
+			</li>
+			<li>
+				<a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1783607-jornalista-expoe-em-livro-divergencias-entre-keynes-e-hayek-sobre-economia.shtml"><h3>Jornalista expõe em livro divergências entre Keynes e Hayek sobre economia</h3></a>
+			</li>
+			<li>
+				<a href="http://www1.folha.uol.com.br/livrariadafolha/2017/06/1814213-livros-trazem-exercicios-para-estimular-a-memoria.shtml"><h3>Livros trazem exercícios para estimular a memória</h3></a>
+			</li>
+		</ul>
+	</div>
+	<div class="clearfix"></div>
+</section>
+<!-- // -->
+<!-- // -->
+<div data-crowdynews-widget="FolhaDeSaoPaulo_noticias-vert"><script src="//widget.crowdynews.com/FolhaDeSaoPaulo_noticias-vert.js" async="true"></script></div>
+
 
 <section class="ads-livrariadafolha showcase">
 	<h4>
@@ -2651,16 +2898,104 @@ $( "#folha-top" ).folha_top( {
 	</h4>
 
 	<div class="books">
+		<div class="item" data-sku="1229287">
+			<div class="item-thumb">
+				<a href="http://livraria.folha.com.br/livros/ciencia-politica/ideias-conservadoras-joao-pereira-coutinho-1229287.html?tracking_number=720">
+				<img src="http://images1.folha.com.br/livraria/images/e/8/1229287-115x150.png" alt="As Ideias Conservadoras">
+				</a>
+			</div>
+			<div class="item-info">
+				<h5>
+
+				<a href="http://livraria.folha.com.br/livros/ciencia-politica/ideias-conservadoras-joao-pereira-coutinho-1229287.html?tracking_number=720">As Ideias Conservadoras</a>
+
+
+				</h5>
+
+				<h5 class="author">João Pereira Coutinho</h5>
+
+				<div class="old-price hide">De: <span class="value"></span></div>
+				<div class="real-price hide">Por: <span class="value"></span></div>
+
+				<a href="http://livraria.folha.com.br/livros/ciencia-politica/ideias-conservadoras-joao-pereira-coutinho-1229287.html?tracking_number=720" class="buy">Comprar</a>
+			</div>
+		</div>
+		<div class="item" data-sku="1360673">
+			<div class="item-thumb">
+				<a href="http://livraria.folha.com.br/livros/sociologia/crise-esquerdas-aldo-fornazieri-carlos-muanis-1360673.html?tracking_number=720">
+				<img src="http://images1.folha.com.br/livraria/images/f/e/1360673-115x150.png" alt="A Crise Das Esquerdas">
+				</a>
+			</div>
+			<div class="item-info">
+				<h5>
+
+				<a href="http://livraria.folha.com.br/livros/sociologia/crise-esquerdas-aldo-fornazieri-carlos-muanis-1360673.html?tracking_number=720">A Crise Das Esquerdas</a>
+
+
+				</h5>
+
+				<h5 class="author">Aldo Fornazieri, Carlos Muanis</h5>
+
+				<div class="old-price hide">De: <span class="value"></span></div>
+				<div class="real-price hide">Por: <span class="value"></span></div>
+
+				<a href="http://livraria.folha.com.br/livros/sociologia/crise-esquerdas-aldo-fornazieri-carlos-muanis-1360673.html?tracking_number=720" class="buy">Comprar</a>
+			</div>
+		</div>
+		<div class="item" data-sku="1356473">
+			<div class="item-thumb">
+				<a href="http://livraria.folha.com.br/livros/historia/get-lio-vargas-pai-alzira-vargas-amaral-peixoto-1356473.html?tracking_number=720">
+				<img src="http://images1.folha.com.br/livraria/images/5/6/1356473-115x150.png" alt="Getúlio Vargas, Meu Pai">
+				</a>
+			</div>
+			<div class="item-info">
+				<h5>
+
+				<a href="http://livraria.folha.com.br/livros/historia/get-lio-vargas-pai-alzira-vargas-amaral-peixoto-1356473.html?tracking_number=720">Getúlio Vargas, Meu Pai</a>
+
+
+				</h5>
+
+				<h5 class="author">Alzira Vargas Do Amaral Peixoto</h5>
+
+				<div class="old-price hide">De: <span class="value"></span></div>
+				<div class="real-price hide">Por: <span class="value"></span></div>
+
+				<a href="http://livraria.folha.com.br/livros/historia/get-lio-vargas-pai-alzira-vargas-amaral-peixoto-1356473.html?tracking_number=720" class="buy">Comprar</a>
+			</div>
+		</div>
+		<div class="item" data-sku="1356443">
+			<div class="item-thumb">
+				<a href="http://livraria.folha.com.br/filmes/policial/filme-noir-vol-8-dvd-1356443.html?tracking_number=720">
+				<img src="http://images1.folha.com.br/livraria/images/1/9/1356443-115x150.png" alt="Filme Noir (Vol. 8) (DVD)">
+				</a>
+			</div>
+			<div class="item-info">
+				<h5>
+
+				<a href="http://livraria.folha.com.br/filmes/policial/filme-noir-vol-8-dvd-1356443.html?tracking_number=720">Filme Noir (Vol. 8) (DVD)</a>
+
+
+				</h5>
+
+				<h5 class="author">Vários</h5>
+
+				<div class="old-price hide">De: <span class="value"></span></div>
+				<div class="real-price hide">Por: <span class="value"></span></div>
+
+				<a href="http://livraria.folha.com.br/filmes/policial/filme-noir-vol-8-dvd-1356443.html?tracking_number=720" class="buy">Comprar</a>
+			</div>
+		</div>
 		<div class="item" data-sku="1360587">
 			<div class="item-thumb">
-				<a href="http://livraria.folha.com.br/livros/historia/todos-todos-dio-cada-dia-leandro-karnal-1360587.html?tracking_number=783">
+				<a href="http://livraria.folha.com.br/livros/historia/todos-todos-odio-cada-dia-leandro-karnal-1360587.html?tracking_number=720">
 				<img src="http://images1.folha.com.br/livraria/images/f/f/1360587-115x150.png" alt="Todos Contra Todos: o Ódio Nosso de Cada Dia">
 				</a>
 			</div>
 			<div class="item-info">
 				<h5>
 
-				<a href="http://livraria.folha.com.br/livros/historia/todos-todos-dio-cada-dia-leandro-karnal-1360587.html?tracking_number=783">Todos Contra Todos: o Ódio Nosso de Cada Dia</a>
+				<a href="http://livraria.folha.com.br/livros/historia/todos-todos-odio-cada-dia-leandro-karnal-1360587.html?tracking_number=720">Todos Contra Todos: o Ódio Nosso de Cada Dia</a>
 
 
 				</h5>
@@ -2670,95 +3005,7 @@ $( "#folha-top" ).folha_top( {
 				<div class="old-price hide">De: <span class="value"></span></div>
 				<div class="real-price hide">Por: <span class="value"></span></div>
 
-				<a href="http://livraria.folha.com.br/livros/historia/todos-todos-dio-cada-dia-leandro-karnal-1360587.html?tracking_number=783" class="buy">Comprar</a>
-			</div>
-		</div>
-		<div class="item" data-sku="1360835">
-			<div class="item-thumb">
-				<a href="http://livraria.folha.com.br/livros/ciencias-humanas/hist-ria-ci-ncia-tem-pressa-meredith-mac-ardle-1360835.html?tracking_number=783">
-				<img src="http://images1.folha.com.br/livraria/images/a/c/1360835-115x150.png" alt="A História da Ciência Para Quem Tem Pressa">
-				</a>
-			</div>
-			<div class="item-info">
-				<h5>
-
-				<a href="http://livraria.folha.com.br/livros/ciencias-humanas/hist-ria-ci-ncia-tem-pressa-meredith-mac-ardle-1360835.html?tracking_number=783">A História da Ciência Para Quem Tem Pressa</a>
-
-
-				</h5>
-
-				<h5 class="author">Meredith Mac Ardle, Nicola Chalton</h5>
-
-				<div class="old-price hide">De: <span class="value"></span></div>
-				<div class="real-price hide">Por: <span class="value"></span></div>
-
-				<a href="http://livraria.folha.com.br/livros/ciencias-humanas/hist-ria-ci-ncia-tem-pressa-meredith-mac-ardle-1360835.html?tracking_number=783" class="buy">Comprar</a>
-			</div>
-		</div>
-		<div class="item" data-sku="1361619">
-			<div class="item-thumb">
-				<a href="http://livraria.folha.com.br/livros/historia/high-hitler-norman-ohler-1361619.html?tracking_number=783">
-				<img src="http://images1.folha.com.br/livraria/images/8/1/1361619-115x150.png" alt="High Hitler">
-				</a>
-			</div>
-			<div class="item-info">
-				<h5>
-
-				<a href="http://livraria.folha.com.br/livros/historia/high-hitler-norman-ohler-1361619.html?tracking_number=783">High Hitler</a>
-
-
-				</h5>
-
-				<h5 class="author">Norman Ohler</h5>
-
-				<div class="old-price hide">De: <span class="value"></span></div>
-				<div class="real-price hide">Por: <span class="value"></span></div>
-
-				<a href="http://livraria.folha.com.br/livros/historia/high-hitler-norman-ohler-1361619.html?tracking_number=783" class="buy">Comprar</a>
-			</div>
-		</div>
-		<div class="item" data-sku="1361461">
-			<div class="item-thumb">
-				<a href="http://livraria.folha.com.br/livros/biografias-e-memorias/mem-rias-segunda-guerra-mundial-vol-1-1919-1361461.html?tracking_number=783">
-				<img src="http://images1.folha.com.br/livraria/images/9/5/1361461-115x150.png" alt="Memórias Da Segunda Guerra Mundial (Vol. 1, 1919-1941)">
-				</a>
-			</div>
-			<div class="item-info">
-				<h5>
-
-				<a href="http://livraria.folha.com.br/livros/biografias-e-memorias/mem-rias-segunda-guerra-mundial-vol-1-1919-1361461.html?tracking_number=783">Memórias Da Segunda Guerra Mundial (Vol. 1, 1919-1941)</a>
-
-
-				</h5>
-
-				<h5 class="author">Winston Churchill</h5>
-
-				<div class="old-price hide">De: <span class="value"></span></div>
-				<div class="real-price hide">Por: <span class="value"></span></div>
-
-				<a href="http://livraria.folha.com.br/livros/biografias-e-memorias/mem-rias-segunda-guerra-mundial-vol-1-1919-1361461.html?tracking_number=783" class="buy">Comprar</a>
-			</div>
-		</div>
-		<div class="item" data-sku="1361623">
-			<div class="item-thumb">
-				<a href="http://livraria.folha.com.br/livros/autoajuda/atitude-praticas-positivas-levam-sucesso-samuel-ferreira-1361623.html?tracking_number=783">
-				<img src="http://images1.folha.com.br/livraria/images/9/7/1361623-115x150.png" alt="Atitude">
-				</a>
-			</div>
-			<div class="item-info">
-				<h5>
-
-				<a href="http://livraria.folha.com.br/livros/autoajuda/atitude-praticas-positivas-levam-sucesso-samuel-ferreira-1361623.html?tracking_number=783">Atitude</a>
-
-
-				</h5>
-
-				<h5 class="author">Samuel Ferreira</h5>
-
-				<div class="old-price hide">De: <span class="value"></span></div>
-				<div class="real-price hide">Por: <span class="value"></span></div>
-
-				<a href="http://livraria.folha.com.br/livros/autoajuda/atitude-praticas-positivas-levam-sucesso-samuel-ferreira-1361623.html?tracking_number=783" class="buy">Comprar</a>
+				<a href="http://livraria.folha.com.br/livros/historia/todos-todos-odio-cada-dia-leandro-karnal-1360587.html?tracking_number=720" class="buy">Comprar</a>
 			</div>
 		</div>
 		
@@ -2769,13 +3016,15 @@ $( "#folha-top" ).folha_top( {
 
 <script>
 $( "section.ads-livrariadafolha.showcase" ).bookstore( {
-	json: "folha-colunas-side.json"
+	json: "folha-poder-side.json"
 } ) ;
 </script>
 
 <!--// -->
-<!-- // -->
-<!-- // -->
+<!--/-->
+<!--/-->
+
+<!--/-->
 					<!-- /Column Right Article -->
 
 				</div>
@@ -2785,14 +3034,18 @@ $( "section.ads-livrariadafolha.showcase" ).bookstore( {
 			<!-- /row -->
 
 			
-
+			<!-- MIDDLE -->
+			<!--//-->
 			
+			
+			
+
 
 			
 
 			<script>
 folha.media.init() ;
-folha.toolbar.init( "http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml" , "Cineastas pedem que Temer confirme nomea&#231;&#227;o da presidente da Ancine" ) ;
+folha.toolbar.init( "http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml" , "Joesley presta depoimento &#224; PF em inqu&#233;rito sobre Temer" ) ;
 folha.comments.init() ;
 folha.corner_box.init() ;
 folha.share.init() ;
@@ -2849,8 +3102,8 @@ if ( $.fn.disable_copy ) {
 </script>
 
 
-			<!-- Stats -->
-			<script src="http://static.folha.uol.com.br/plugins/stats/1.0/stats.js?2016050501"></script>
+			<!-- Stats -->			
+			<script src="http://static.folha.uol.com.br/plugins/stats/1.0/stats.js?2017060901"></script>
 			<!-- /Stats -->
 
 						<script>
@@ -3021,8 +3274,8 @@ $( "#folha-shop" ).folha_shop( {
 									<li>
 										<span id="paywall-auth-footer" class="btn">
 											<span data-paywall="off">
-												<a href="http://login.folha.com.br/login?service=paywall/frontend&amp;done=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml"><i class="sprite login"></i>Login</a> |
-												<a href="http://login.folha.com.br/logout?service=paywall/frontend&amp;done=http://www1.folha.uol.com.br/colunas/monicabergamo/2017/06/1893287-cineastas-pedem-que-temer-confirme-nomeacao-da-presidente-da-ancine.shtml"><i class="sprite logout"></i>Logout</a>
+												<a href="http://login.folha.com.br/login?service=paywall/frontend&amp;done=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml"><i class="sprite login"></i>Login</a> |
+												<a href="http://login.folha.com.br/logout?service=paywall/frontend&amp;done=http://www1.folha.uol.com.br/poder/2017/06/1893435-joesley-presta-depoimento-a-pf-em-inquerito-sobre-temer.shtml"><i class="sprite logout"></i>Logout</a>
 											</span>
 										</span>
 									</li>
@@ -3347,6 +3600,10 @@ $( "#folha-shop" ).folha_shop( {
 	</div>-->
 
 	
+	<div id="banner-300x50-1" class="tm-ads">
+	<script>folha.tag_manager.get( "300x50-1" ) ;</script>
+	</div>
+	
 
 	
 
@@ -3633,7 +3890,7 @@ $( "#folha-shop" ).folha_shop( {
 		//_sf_async_config.uid = 50059;
 		//_sf_async_config.domain = 'folha.com.br';
 		//_sf_async_config.useCanonical = true;
-		_sf_async_config.sections = 'colunistas'; //CHANGE THIS
+		_sf_async_config.sections = 'poder'; //CHANGE THIS
 		_sf_async_config.authors = 'Folha'; //CHANGE THIS
 		/** CONFIGURATION END **/
 		(function(){
@@ -3665,4 +3922,5 @@ $( "#folha-shop" ).folha_shop( {
 			<!--/noindex-->
 </body>
 </html>
+
 <!-- // -->
