@@ -5,3 +5,5 @@ R Model by Boston Traffic - https://www.r-bloggers.com/fitting-a-neural-network-
 https://www.r-bloggers.com/neural-networks-exercises-part-2/
 
 http://www.yolinux.com/TUTORIALS/BashShellCgi.html
+
+ELIZA - http://www.masswerk.at/elizabot/
