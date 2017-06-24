@@ -1,3 +1,5 @@
 IEEE - http://ieeexplore.ieee.org/abstract/document/5250807/
 
+R Model by Boston Traffic - https://www.r-bloggers.com/fitting-a-neural-network-in-r-neuralnet-package/
+
 http://www.yolinux.com/TUTORIALS/BashShellCgi.html
